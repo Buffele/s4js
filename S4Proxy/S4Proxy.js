@@ -27,6 +27,10 @@ var SServerListAck = require('../Core/S4League/Auth/S2C/SServerListAck');
 
 // Game C2S
 var CLoginRequestReq = require('../Core/S4League/Game/C2S/CLoginRequestReq');
+var CAdminShowWindowReq = require('../Core/S4League/Game/C2S/CAdminShowWindowReq');
+
+// Game S2C
+var SAdminShowWindowAck = require('../Core/S4League/Game/S2C/SAdminShowWindowAck');
 
 // Chat C2S
 var CLoginReq = require('../Core/S4League/Chat/C2S/CLoginReq');
@@ -120,6 +124,16 @@ const startGameProxy = (server) => {
 		log.debug('[GAME] <-- [' + GameOPCode.getKeyByValue(opCode) + '][' + opCode + ']');
 		log.debug(Packet.dump(packet.data.toBuffer()));
 
+		if (opCode === GameOPCode.SAdminShowWindowAck) {
+			var deserialized = SAdminShowWindowAck.deserialize(packet);
+			console.log(deserialized);
+
+			deserialized.enabled = 0;
+
+			packet = new Packet('e');
+			packet.writeBuffer(SAdminShowWindowAck.serialize(deserialized));
+		}
+
 		gameProxy.sendToServer(session, opCode, packet);
 	});
 
@@ -136,6 +150,9 @@ const startGameProxy = (server) => {
 
 			packet = new Packet('E');
 			packet.writeBuffer(CLoginRequestReq.serialize(deserialized));
+		} else if (opCode === GameOPCode.CAdminShowWindowReq) {
+			var deserialized = CAdminShowWindowReq.deserialize(packet);
+			console.log(deserialized);
 		}
 
 		gameProxy.sendToClient(session, opCode, packet);
