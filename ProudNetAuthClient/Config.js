@@ -8,6 +8,7 @@ module.exports = {
 		//ip: '125.5.20.20', // Philippines Auth Server (Valofe)
 		//ip: '200.42.138.68', // Latino Auth
 		//ip: 'server.remdb.net',// S4 Remnants Auth
-		port: 212
+		ip: '43.157.55.180', // Valofe
+		port: 28002
 	}
 }

@@ -43,20 +43,20 @@ client.connect(Config.auth.port, Config.auth.ip, function() {
 })
 
 client.on('connect', function() {
-	client.send(AuthOPCode.CLoginEUReq, CLoginEUReq.serialize('test', 'test', '', '', '', 0, 0, 0, '', 0, '', '', '', '', '', ''))
-	log.debug('Packet Sent [CLoginEUReq]')
+	//client.send(AuthOPCode.CLoginEUReq, CLoginEUReq.serialize('test', 'test', '', '', '', 0, 0, 0, '', 0, '', '', '', '', '', ''))
+	//log.debug('Packet Sent [CLoginEUReq]')
 
-	client.send(AuthOPCode.CLoginKRReq, CLoginKRReq.serialize('', '', '', 3, 0))
-	log.debug('Packet Sent [CLoginKRReq]')
+	//client.send(AuthOPCode.CLoginKRReq, CLoginKRReq.serialize('', '', '', 3, 0))
+	//log.debug('Packet Sent [CLoginKRReq]')
 
-	client.send(AuthOPCode.CGameDataXBNReq, CGameDataXBNReq.serialize(0))
-	log.debug('Packet Sent [CGameDataXBNReq]')
+	//client.send(AuthOPCode.CGameDataXBNReq, CGameDataXBNReq.serialize(0))
+	//log.debug('Packet Sent [CGameDataXBNReq]')
 	
 	client.send(AuthOPCode.CServerListReq, CServerListReq.serialize())
 	log.debug('Packet Sent [CServerListReq]')
 
-	client.send(AuthOPCode.COptionVersionCheckReq, COptionVersionCheckReq.serialize(1, 0))
-	log.debug('Packet Sent [COptionVersionCheckReq]')
+	//client.send(AuthOPCode.COptionVersionCheckReq, COptionVersionCheckReq.serialize(1, 0))
+	//log.debug('Packet Sent [COptionVersionCheckReq]')
 })
 
 client.on('packet', function(opCode, packet) {
