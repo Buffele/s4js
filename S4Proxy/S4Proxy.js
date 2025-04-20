@@ -116,7 +116,13 @@ const startGameProxy = (server) => {
 		protocolVersion: Common.GameProtocolVersion,
 		destinationIp: server.game.target.ip,
 		destinationPort: server.game.target.port
-	})
+	});
+
+	var chatProxy = new ProudNetProxy({
+		protocolVersion: Common.ChatProtocolVersion,
+		destinationIp: server.chat.target.ip,
+		destinationPort: server.chat.target.port,
+	});
 
 	gameProxy.listen(server.game.source.port, server.game.source.ip)
 
@@ -159,14 +165,6 @@ const startGameProxy = (server) => {
 	});
 
 	log.info('[GAME] Proxy started on ' + server.game.source.ip + ':' + server.game.source.port);
-}
-
-const startChatProxy = (server) => {
-	var chatProxy = new ProudNetProxy({
-		protocolVersion: Common.ChatProtocolVersion,
-		destinationIp: server.chat.target.ip,
-		destinationPort: server.chat.target.port,
-	});
 
 	chatProxy.listen(server.chat.source.port, server.chat.source.ip);
 
@@ -205,7 +203,6 @@ const startServers = () => {
 		log.info('[SERVER] Starting ' + server.name + '...');
 
 		startGameProxy(server);
-		startChatProxy(server);
 	}
 }
 
