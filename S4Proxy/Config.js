@@ -1,44 +1,70 @@
 module.exports = {
 	http: {
 		ip: '127.0.0.1',
-		port: 3000
+		port: 3000,
+	},
+	account: {
+		id: 4,
+		name: 'Test',
 	},
 	auth: {
 		source: {
 			ip: '127.0.0.1',
-			port: 28002
+			port: 28002,
 		},
 		target: {
-			ip: '83.220.134.84', // Official S4 Auth Server
-			//ip: '200.42.138.68', // Latino Auth Server (Yuisy)
-			//ip: '125.5.20.20', // Philippines Auth Server (Valofe)
-			port: 28002
-		}
+			ip: '43.157.55.180',
+			port: 28002,
+		},
 	},
-	chat: {
-		source: {
-			ip: '127.0.0.1',
-			port: 28013
+	servers: [
+		{
+			name: '[Proxy] Leaguers',
+			groupId: 0,
+			game: {
+				source: {
+					ip: '127.0.0.1',
+					port: 28003,
+				},
+				target: {
+					ip: '43.157.55.180',
+					port: 7950,
+				},
+			},
+			chat: {
+				source: {
+					ip: '127.0.0.1',
+					port: 28004,
+				},
+				target: {
+					ip: '43.157.55.180',
+					port: 7948,
+				},
+			},
 		},
-		target: {
-			//ip: '83.220.134.72', // English 1 Chat
-			ip: '83.220.134.73', // German 1 Chat
-			//ip: '200.42.138.64', // S4_Chat_1 | Latino S4 (Yuisy)
-			//ip: '125.5.20.76', // S4_Blitz Chat
-			port: 28013
-		}
-	},
-	game: {
-		source: {
-			ip: '127.0.0.1',
-			port: 28008
+		{
+			name: '[Proxy] Dominic',
+			groupId: 1,
+			game: {
+				source: {
+					ip: '127.0.0.1',
+					port: 28005,
+				},
+				target: {
+					ip: '43.157.97.91',
+					port: 7950,
+				},
+			},
+			chat: {
+				source: {
+					ip: '127.0.0.1',
+					port: 28006,
+				},
+				target: {
+					ip: '43.157.97.91',
+					port: 7948,
+				},
+			},
 		},
-		target: {
-			//ip: '83.220.134.72', // English 1 Game
-			ip: '83.220.134.73', // German 1 Game
-			//ip: '200.42.138.64', // S4_Game_1 | Latino S4 (Yuisy)
-			//ip: '125.5.20.76', // S4_Blitz
-			port: 28008
-		}
-	}
+	],
 }

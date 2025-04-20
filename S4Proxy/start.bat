@@ -1,2 +1,2 @@
-cls & node S4Proxy.js
+cls & bun S4Proxy.js
 pause
