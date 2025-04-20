@@ -28,12 +28,15 @@ var SServerListAck = require('../Core/S4League/Auth/S2C/SServerListAck');
 // Game C2S
 var CLoginRequestReq = require('../Core/S4League/Game/C2S/CLoginRequestReq');
 var CAdminShowWindowReq = require('../Core/S4League/Game/C2S/CAdminShowWindowReq');
+var CRoomLeaveRequestReq = require('../Core/S4League/Game/C2S/CRoomLeaveRequestReq');
+var CNickCheckReq = require('../Core/S4League/Game/C2S/CNickCheckReq');
 
 // Game S2C
 var SAdminShowWindowAck = require('../Core/S4League/Game/S2C/SAdminShowWindowAck');
 
 // Chat C2S
 var CLoginReq = require('../Core/S4League/Chat/C2S/CLoginReq');
+var CDenyActionReq = require('../Core/S4League/Chat/C2S/CDenyActionReq');
 
 var log = new Logger('Program', true);
 
@@ -118,15 +121,21 @@ const startGameProxy = (server) => {
 		destinationPort: server.game.target.port
 	});
 
+	gameProxy.listen(server.game.source.port, server.game.source.ip);
+
 	var chatProxy = new ProudNetProxy({
 		protocolVersion: Common.ChatProtocolVersion,
 		destinationIp: server.chat.target.ip,
 		destinationPort: server.chat.target.port,
 	});
 
-	gameProxy.listen(server.game.source.port, server.game.source.ip)
+	chatProxy.listen(server.chat.source.port, server.chat.source.ip);
+
+	var gameSession = null;
 
 	gameProxy.on('clientPacketReceived', function (session, opCode, packet) {
+		gameSession = session;
+
 		log.debug('[GAME] <-- [' + GameOPCode.getKeyByValue(opCode) + '][' + opCode + ']');
 		log.debug(Packet.dump(packet.data.toBuffer()));
 
@@ -166,8 +175,6 @@ const startGameProxy = (server) => {
 
 	log.info('[GAME] Proxy started on ' + server.game.source.ip + ':' + server.game.source.port);
 
-	chatProxy.listen(server.chat.source.port, server.chat.source.ip);
-
 	chatProxy.on('clientPacketReceived', function(session, opCode, packet) {
 		log.debug('[CHAT] <-- [' + ChatOPCode.getKeyByValue(opCode) + '][' + opCode + ']');
 		log.debug(Packet.dump(packet.data.toBuffer()));
@@ -188,6 +195,20 @@ const startGameProxy = (server) => {
 
 			packet = new Packet('E');
 			packet.writeBuffer(CLoginReq.serialize(deserialized));
+		} else if (opCode === ChatOPCode.CDenyActionReq) {
+			var deserialized = CDenyActionReq.deserialize(packet);
+			console.log(deserialized);
+
+			/*
+			packet = new Packet('E');
+			packet.writeBuffer(CRoomLeaveRequestReq.serialize(deserialized.accountId, 0))
+			gameProxy.sendToClient(gameSession, GameOPCode.CRoomLeaveRequestReq, packet);
+			*/
+
+			packet = new Packet('E');
+			packet.writeBuffer(CNickCheckReq.serialize('Test'))
+			gameProxy.sendToClient(gameSession, GameOPCode.CNickCheckReq, packet);
+			return;
 		}
 
 		chatProxy.sendToClient(session, opCode, packet);
