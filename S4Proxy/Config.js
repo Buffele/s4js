@@ -66,5 +66,77 @@ module.exports = {
 				},
 			},
 		},
+		{
+			name: '[Proxy] The Union',
+			groupId: 2,
+			game: {
+				source: {
+					ip: '127.0.0.1',
+					port: 28007,
+				},
+				target: {
+					ip: '43.157.55.172',
+					port: 7950,
+				},
+			},
+			chat: {
+				source: {
+					ip: '127.0.0.1',
+					port: 28008,
+				},
+				target: {
+					ip: '43.157.55.172',
+					port: 7948,
+				},
+			},
+		},
+		{
+			name: '[Proxy] The World',
+			groupId: 3,
+			game: {
+				source: {
+					ip: '127.0.0.1',
+					port: 28009,
+				},
+				target: {
+					ip: '43.128.238.101',
+					port: 7950,
+				},
+			},
+			chat: {
+				source: {
+					ip: '127.0.0.1',
+					port: 28010,
+				},
+				target: {
+					ip: '43.128.238.101',
+					port: 7948,
+				},
+			},
+		},
+		{
+			name: '[Proxy] Imperials',
+			groupId: 4,
+			game: {
+				source: {
+					ip: '127.0.0.1',
+					port: 28011,
+				},
+				target: {
+					ip: '43.130.99.24',
+					port: 7950,
+				},
+			},
+			chat: {
+				source: {
+					ip: '127.0.0.1',
+					port: 28012,
+				},
+				target: {
+					ip: '43.130.99.24',
+					port: 7948,
+				},
+			},
+		},
 	],
 }
