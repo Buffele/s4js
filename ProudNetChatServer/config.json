@@ -1,0 +1,8 @@
+{
+	"ip": "127.0.0.1",
+	"port": 28013,
+	"proudnet": {
+		"encryptionKeyLength": 128,
+		"rsaBits": 1024
+	}
+}

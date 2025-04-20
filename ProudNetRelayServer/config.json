@@ -1,0 +1,10 @@
+{
+	"ip": "127.0.0.1",
+	"port": 28012,
+	"proudnet": {
+		"encryptionKeyLength": 128,
+		"rsaBits": 1024,
+		"enableC2S2CUDP": false,
+		"enableC2CUDP": false
+	}
+}

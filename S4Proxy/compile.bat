@@ -1,0 +1,1 @@
+enclose --loglevel info --config "./compileConfig.js" -o ./S4Proxy.exe ./S4Proxy.js & cmd /k

@@ -1,0 +1,11 @@
+{
+	"name": "S4LeagueClientGUI",
+	"description": "S4 League Serverlist GUI",
+	"author": "Buffele",
+	"private": true,
+	"version": "0.0.1",
+	"main": "S4LeagueClientGUI.js",
+	"devDependencies": {
+		"electron-prebuilt": "1.4.13"
+	}
+}

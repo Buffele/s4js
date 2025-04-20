@@ -1,0 +1,3 @@
+[Client] INFO - Starting ProudNetClient...
+[Client] ERROR - Connection refused. Server down?
+[Client] INFO - Connection closed

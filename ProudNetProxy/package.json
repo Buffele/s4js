@@ -1,0 +1,13 @@
+{
+	"name": "ProudNetProxy",
+	"description": "ProudNet Proxy",
+	"author": "Buffele",
+	"private": true,
+	"dependencies" : {
+
+	},
+	"bin": "ProudNetProxy.js",
+	"scripts": {
+		"start": "cls & node Init.js"
+	}
+}

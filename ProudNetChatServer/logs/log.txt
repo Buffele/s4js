@@ -1,0 +1,1452 @@
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[Server] INFO - Server started on 127.0.0.1:28013
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[Server] INFO - Server started on 127.0.0.1:28013
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[Server] INFO - Server started on 127.0.0.1:28013
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] ERROR - Session Hash not valid!
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[Server] INFO - Server started on 127.0.0.1:28013
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 1 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: ff3b044c53ac207454501db3eff
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 2 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 10745c7f0251f7645da757ce415
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 3 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 80a7f0f2d9b0493bff19db32dff
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[UserService] DEBUG - Packet Received [CUserDataOneReq]
+[UserService] DEBUG - Account ID: 1337
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 4 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: e6c019177baa2f916fdbab19916
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 5 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 30955dbb21ecb4608e174ca7e06
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 6 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 6c0724ce056819a54532451fdf3
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 7 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 6772bb59d765c456a04bc463f01
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[ClubService] DEBUG - Packet Received [CClubMemberListReq]
+[ClubService] DEBUG - Clan ID: 1
+[ClubService] DEBUG - Packet Sent [SClubMemberListAck]
+[MessageService] DEBUG - Packet Received [CMessageChatReq]
+[MessageService] DEBUG - Clan: 0 Message: 123
+[MessageService] DEBUG - Packet Sent [SMessageChatAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 9 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: e10a55883f45e128199330bb744
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 10 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 731f7efbd6c135572c7b0d0cfd8
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 11 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 2752630f223885375c82b4675dc
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 12 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: ca7a3a8024f6f0f3cbf0023900d
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 13 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 5cbaa27e26ba7723e9238216800
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 14 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 4799d062ec90491438a960022f5
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 15 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 2a0f2a67e039d1cc2eb60c5a070
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 16 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 9175f53e037bf8fecc1b93a5d96
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 17 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: d9a6e474002de85a18902b23ea4
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 18 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: b947e69af34554421b59f4a92b4
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 1 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: ff3b044c53ac207454501db3eff
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 1 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: ff3b044c53ac207454501db3eff
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 2 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 10745c7f0251f7645da757ce415
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 3 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 80a7f0f2d9b0493bff19db32dff
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 4 Name:  Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: e6c019177baa2f916fdbab19916
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 5 Name: t123 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 30955dbb21ecb4608e174ca7e06
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 6 Name: Test1 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 6c0724ce056819a54532451fdf3
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 7 Name: Test123 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 6772bb59d765c456a04bc463f01
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 8 Name: Test123 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: eff87a3c0ab20f18a484fa66912
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 9 Name: Test9 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 9a7e9522a706bea8a81c9198036
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveBinaryReq]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 10 Name: Test10 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: b5a96d34b75f78e164baff7b0da
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 11 Name: Test11 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 6fee16605d961aefeabcdd2c5dd
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 12 Name: Test12 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: bd3af31327692f2e4c945ae2b30
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[OptionService] DEBUG - Packet Received [COptionSaveBinaryReq]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[Server] INFO - Server started on 127.0.0.1:28013
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 1 Name: Test1 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 964bde16d8f705369492ed49fd1
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[OptionService] DEBUG - Packet Received [COptionSaveBinaryReq]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 2 Name: Test2 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 047489a6345a424c6e2db1e855c
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 3 Name: Test3 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 96a23672e502433f20ff46dad91
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 5 Name: Test5 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 15abd487cea82c0d3475bb8107b
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[OptionService] DEBUG - Packet Received [COptionSaveBinaryReq]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[Server] INFO - Server started on 127.0.0.1:28013
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 1 Name: Test1 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 7c184b5023520624508347384aa
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveBinaryReq]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 1 Name: Test2 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 7c184b5023520624508347384aa
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[Server] INFO - Server started on 127.0.0.1:28013
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+cf 6a d3 97 c0 8c fb 4d bc c9 97 ca b2 55 e2 bc 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 1 Name: Test1 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 3e03bbc9031f5522531c79770a0
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[OptionService] DEBUG - Packet Received [COptionSaveBinaryReq]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[Server] INFO - Server started on 127.0.0.1:28013
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 3 Name: Test3 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 9a0cf4c21af3b83823a286d1db9
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveBinaryReq]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 3 Name: Test4 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 9a0cf4c21af3b83823a286d1db9
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 10 Name: Test10 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 37f9c03dcb6135c90a9a1f6605a
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 10 Name: Test11 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 37f9c03dcb6135c90a9a1f6605a
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 10 Name: Test12 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 37f9c03dcb6135c90a9a1f6605a
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 13 Name: Test13 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 9ebb6da17a6617efd76b1d16a1e
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 14 Name: Test14 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 4fa9e4c22efeceebb472247c00b
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 15 Name: Test15 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 9ecf8de53b205fdb0e1540c6197
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 16 Name: Test16 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: f89c3ddfcef3078ab0e4f50ea23
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 17 Name: Test17 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: d103f2f3d2e5c6227f74af04c8a
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[OptionService] DEBUG - Packet Received [COptionSaveBinaryReq]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 17 Name: Test18 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: d103f2f3d2e5c6227f74af04c8a
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 17 Name: Test19 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: d103f2f3d2e5c6227f74af04c8a
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[MessageService] DEBUG - Packet Received [CMessageChatReq]
+[MessageService] DEBUG - Clan: 0 Message: nya
+[MessageService] DEBUG - Packet Sent [SMessageChatAck]
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveBinaryReq]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[Server] INFO - Server started on 127.0.0.1:28013
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 1 Name: Test1 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: cca3011c6e79e21067c4c4cf070
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[OptionService] DEBUG - Packet Received [COptionSaveBinaryReq]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 2 Name: Test2 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 62153644c52c407a124894e8fdb
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[Server] INFO - Server started on 127.0.0.1:28013
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 1 Name: Test1 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: ff3b044c53ac207454501db3eff
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveBinaryReq]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 1 Name: Test1 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 1b691c3fea79542457901b27d2d
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 1 Name: Test1 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 1b691c3fea79542457901b27d2d
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[Server] INFO - Server started on 127.0.0.1:28013
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[Server] INFO - Server started on 127.0.0.1:28013
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[Server] INFO - Server started on 127.0.0.1:28013
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 4 Name: Test4 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 2869da17b5f322e6adf169324f6
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 5 Name: Test5 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 0894084d2f219e83b4a87f059d7
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 6 Name: Test6 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 43bfaeaa661b36fb9d55c05753d
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 7 Name: Test7 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: f493b043a49aa3dd1c1375c7403
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveBinaryReq]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 7 Name: Test8 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: f493b043a49aa3dd1c1375c7403
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 9 Name: Test9 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 278f6083cbf0b548d6d91517cbd
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 10 Name: Test10 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: bd48b1c3e238a6d5a7c7367209e
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 11 Name: Test11 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 90ac263e3d2284d18a39f7483ef
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveCommunityReq]
+[OptionService] DEBUG - Allow Combi: Allow
+[OptionService] DEBUG - Allow Friend Request: Allow
+[OptionService] DEBUG - Allow Invitation: Allow
+[OptionService] DEBUG - Allow Open Info: Allow
+[OptionService] DEBUG - Packet Received [COptionSaveBinaryReq]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 11 Name: Test12 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 90ac263e3d2284d18a39f7483ef
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 13 Name: Test13 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 71483e88050d76d5fc1b37aea29
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 14 Name: Test14 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 655c688afe3beaf1f05efa871da
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 15 Name: Test15 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: ce7bc65887eae89a530f6348bbe
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 16 Name: Test16 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: e90ffa176d9a854ff9d539bb46f
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 17 Name: Test17 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: d28f385c0a0bd1237a276eb89fd
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+3b ae a8 dc ce 97 68 1b 43 c0 d7 6e 57 4a b6 9d 
+[ChatService] DEBUG - Packet Received [CLoginReq]
+[ChatService] DEBUG - Account ID: 18 Name: Test18 Session ID: 1234
+[ChatService] DEBUG - Expected Session Hash: 8c33fda7be85e6e1621b023ce92
+[ChatService] ERROR - Session Hash not valid!
+[ChatService] DEBUG - Packet Sent [SLoginAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SChannelPlayerNameTagListAck]
+[ChatService] DEBUG - Packet Sent [SDenyListAck]
+[ChatService] DEBUG - Packet Sent [SFriendListAck]
+[ChatService] DEBUG - Packet Sent [SCombiListAck]
+[ChatService] DEBUG - Packet Sent [SClanMemberListAck]
+[ChatService] DEBUG - Packet Sent [SClubNewsRemind]
+[ChatService] DEBUG - Packet Sent [SNoteCountAck]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[Server] INFO - Server started on 127.0.0.1:28013

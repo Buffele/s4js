@@ -1,0 +1,12 @@
+{
+	"name": "ChatServer",
+	"description": "Chat Server for S4 League",
+	"author": "Buffele",
+	"private": true,
+	"dependencies" : {
+
+	},
+	"scripts": {
+		"start": "cls & node Init.js"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"ip": "127.0.0.1",
+	"port": 28002,
+	"proudnet": {
+		"encryptionKeyLength": 128,
+		"rsaBits": 1024
+	},
+	"servers": [
+		{
+			"id": 1,
+			"type": "Game",
+			"name": "S4_Game",
+			"limit": 4000,
+			"online": 0,
+			"ip": "127.0.0.1",
+			"port": 28008,
+			"group": 1
+		},
+		{
+			"id": 2,
+			"type": "Chat",
+			"name": "S4_Chat",
+			"limit": 4000,
+			"online": 0,
+			"ip": "127.0.0.1",
+			"port": 28013,
+			"group": 1
+		}
+	]
+}

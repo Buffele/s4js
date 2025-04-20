@@ -1,0 +1,1 @@
+enclose --loglevel info --config "./compileConfig.js" -o ./S4MissionRewarder.exe ./S4MissionRewarder.js & cmd /k

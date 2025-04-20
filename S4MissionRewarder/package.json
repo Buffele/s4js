@@ -1,0 +1,7 @@
+{
+	"name": "S4MissionRewarder",
+	"private": true,
+	"scripts": {
+		"start": "cls & node S4MissionRewarder.js"
+	}
+}

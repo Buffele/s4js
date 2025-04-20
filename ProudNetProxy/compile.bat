@@ -1,0 +1,1 @@
+enclose --loglevel info --config "./compileConfig.js" -o ./ProudNetProxy.exe ./ProudNetProxy.js & cmd /k

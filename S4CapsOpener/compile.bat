@@ -1,0 +1,1 @@
+enclose --loglevel info --config "./compileConfig.js" -o ./S4CapsOpener.exe ./S4CapsOpener.js & cmd /k

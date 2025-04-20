@@ -1,0 +1,12 @@
+{
+	"name": "S4LeagueOnlineTRacker",
+	"description": "S4 League Online Tracker",
+	"author": "Buffele",
+	"private": true,
+	"dependencies" : {
+
+	},
+	"scripts": {
+		"start": "cls & node Init.js"
+	}
+}

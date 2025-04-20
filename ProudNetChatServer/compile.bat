@@ -1,0 +1,1 @@
+enclose --loglevel info --config "./compileConfig.js" -o ./ChatServer.exe ./ChatServer.js & cmd /k

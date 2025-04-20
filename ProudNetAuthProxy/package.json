@@ -1,0 +1,12 @@
+{
+	"name": "AuthProxy",
+	"description": "Auth Proxy for S4 League",
+	"author": "Buffele",
+	"private": true,
+	"dependencies" : {
+
+	},
+	"scripts": {
+		"start": "cls & node Init.js"
+	}
+}

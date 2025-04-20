@@ -1,0 +1,2711 @@
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Server] WARNING - Unknown Packet Received [5002]
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[ProudNetServer] ERROR - Port 28002 already in use - exiting...
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginJPReq]
+[AuthService] DEBUG - Remaining: 
+01 01 05 30 30 30 30 36 01 01 07 30 30 30 30 30 
+30 38 01 01 00 01 01 08 30 30 30 30 30 30 30 39 
+05 00 00 00 07 00 00 00 00 00 00 00 01 01 00 00 
+00 00 00 01 01 00 01 01 00 
+[AuthService] WARNING - Not implemented!
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 1 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 1 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 2 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 3 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 4 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 5 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 6 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 7 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 8 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 9 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 10 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 11 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 12 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 13 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 14 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 15 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 16 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 17 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 18 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 1 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 1 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 2 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: sdgvdef
+[AuthService] DEBUG - Password: vdfv
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 3 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: sdgvdef
+[AuthService] DEBUG - Password: vdfv
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 4 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: sdgvdef
+[AuthService] DEBUG - Password: vdfv;'
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 5 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: sdgvdef
+[AuthService] DEBUG - Password: vdfv;'
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 6 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: sdgvdef
+[AuthService] DEBUG - Password: vdfv;'
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 7 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: sdgvdef
+[AuthService] DEBUG - Password: vdfv;'
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 8 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: sdgvdef
+[AuthService] DEBUG - Password: vdfv;'
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 9 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: sdgvdef
+[AuthService] DEBUG - Password: vdfv;'
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 10 Checksum: 976611698
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: sdgvdef
+[AuthService] DEBUG - Password: vdfv;'
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 11 Checksum: 976611698
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 12 Checksum: 3671311903
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 1 Checksum: 2759055444
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 2 Checksum: 2538161654
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 3 Checksum: 2538161654
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 4 Checksum: 2538161654
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 5 Checksum: 2759055444
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[ProudNetServer] ERROR - Port 28002 already in use - exiting...
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 1 Checksum: 3515301079
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 2 Checksum: 1347675686
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+0b 3c e7 9b 10 3b 3e 40 be 7d 9f 22 27 02 a3 8c 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 1 Checksum: 3515301079
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 1 Checksum: 2216569537
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 2 Checksum: 2216569537
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 3 Checksum: 2216569537
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 4 Checksum: 2610071231
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 5 Checksum: 2610071231
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 6 Checksum: 2610071231
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 7 Checksum: 2610071231
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 8 Checksum: 2610071231
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 9 Checksum: 2610071231
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 10 Checksum: 2610071231
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 11 Checksum: 2610071231
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 12 Checksum: 2610071231
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 13 Checksum: 2610071231
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 14 Checksum: 2610071231
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 15 Checksum: 2610071231
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 16 Checksum: 2610071231
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 17 Checksum: 2610071231
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 18 Checksum: 650351734
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test
+[AuthService] DEBUG - Password: test
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 19 Checksum: 650351734
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: 026889
+[AuthService] DEBUG - Password: 13456
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 1 Checksum: 912885179
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: 026889
+[AuthService] DEBUG - Password: 13456
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 2 Checksum: 1800062678
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[ProudNetServer] ERROR - Port 28002 already in use - exiting...
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: 026889
+[AuthService] DEBUG - Password: 13456
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 1 Checksum: 1800062678
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test@
+[AuthService] DEBUG - Password: 
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 2 Checksum: 1241913786
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: test@
+[AuthService] DEBUG - Password: 
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 3 Checksum: 1241913786
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: ØÍÕ_
+[AuthService] DEBUG - Password: ØÊÕ_
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: èöí]
+[AuthService] DEBUG - Password: ¨øí]
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: àˆ
+[AuthService] DEBUG - Password:  ƒ=
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: Ø< =
+[AuthService] DEBUG - Password: Ø@ =
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 4 Checksum: 1241913786
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username:  H@
+[AuthService] DEBUG - Password: `G@
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 5 Checksum: 1241913786
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: (�R?
+[AuthService] DEBUG - Password: h›R?
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 6 Checksum: 1241913786
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username:  ¸÷"
+[AuthService] DEBUG - Password: à²÷"
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 7 Checksum: 1241913786
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: ˜Ö:
+[AuthService] DEBUG - Password: pÔ:
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 8 Checksum: 3441658312
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: X8o,
+[AuthService] DEBUG - Password: ˜6o,
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 9 Checksum: 1241913786
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username:  L +
+[AuthService] DEBUG - Password: àL +
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 10 Checksum: 1241913786
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: Ä -
+[AuthService] DEBUG - Password: Ç -
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 11 Checksum: 1241913786
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: ¨IÛ=
+[AuthService] DEBUG - Password: ¨VÛ=
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 12 Checksum: 3441658312
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: `éu,
+[AuthService] DEBUG - Password: `ðu,
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 13 Checksum: 1241913786
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: XúŽ,
+[AuthService] DEBUG - Password: XÿŽ,
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 14 Checksum: 1241913786
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: ˜ñ@%
+[AuthService] DEBUG - Password: Øò@%
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 15 Checksum: 1241913786
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: ˆ#(
+[AuthService] DEBUG - Password: H)(
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 16 Checksum: 1241913786
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: ðê:&
+[AuthService] DEBUG - Password: pè:&
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 17 Checksum: 1241913786
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Server] DEBUG - Connection opened
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[AuthService] DEBUG - Packet Received [CLoginEUReq]
+[AuthService] DEBUG - Username: ¥v&
+[AuthService] DEBUG - Password: X¨v&
+[AuthService] DEBUG - Unk 1: 
+[AuthService] DEBUG - Unk 2: 
+[AuthService] DEBUG - Resource Checksum: 
+[AuthService] DEBUG - Unk 3: 0
+[AuthService] DEBUG - Unk 4: 0
+[AuthService] DEBUG - Unk 5: 16842752
+[AuthService] DEBUG - Unk 6: 
+[AuthService] DEBUG - Unk 7: 16777216
+[AuthService] DEBUG - Unk 8: 
+[AuthService] DEBUG - Unk 9: 
+[AuthService] DEBUG - Aeria Acc Code: 
+[AuthService] DEBUG - Access Token: 
+[AuthService] DEBUG - Refresh Token: 
+[AuthService] DEBUG - Expire Date: 
+[AuthService] DEBUG - Packet Sent [SLoginEUAck]
+[VersionService] DEBUG - Packet Received [COptionVersionCheckReq]
+[VersionService] DEBUG - Account ID: 18 Checksum: 1241913786
+[ServerService] DEBUG - Packet Received [CServerListReq]
+[ServerService] DEBUG - Packet Sent [SServerListAck]
+[Server] DEBUG - Connection closed
+[Program] INFO - Starting Server...
+[Server] INFO - Starting ProudNetServer...
+[XBNService] INFO - 15 XBN Files loaded
+[Server] INFO - Server started on 127.0.0.1:28002

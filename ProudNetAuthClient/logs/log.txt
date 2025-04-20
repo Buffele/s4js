@@ -1,0 +1,447 @@
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 78.31.64.188:28002
+[Client] DEBUG - Packet Sent [CGameDataXBNReq]
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: ConstantInfo
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Actions
+[Client] INFO - Successfully saved File 01.xbn.
+[Client] INFO - Successfully saved File 02.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Weapons
+[Client] INFO - Successfully saved File 03.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Weapons
+[Client] INFO - Successfully saved File 04.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 05.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 06.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 07.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EffectMatch
+[Client] INFO - Successfully saved File 08.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EnchantData
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EquipLimit
+[Client] INFO - Successfully saved File 09.xbn.
+[Client] INFO - Successfully saved File 10.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: MonsterStatus
+[Client] INFO - Successfully saved File 11.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: MonsterMapMiddle
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EsperAction
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: WeaponTypeReloadInfo
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: AttackRangeLimit
+[Client] INFO - Successfully saved File 13.xbn.
+[Client] INFO - Successfully saved File 14.xbn.
+[Client] INFO - Successfully saved File 12.xbn.
+[Client] INFO - Successfully saved File 15.xbn.
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 78.31.64.188:28002
+[Client] DEBUG - Packet Sent [CGameDataXBNReq]
+[Client] DEBUG - Packet Sent [CServerListReq]
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: ConstantInfo
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Actions
+[Client] INFO - Successfully saved File 01.xbn.
+[Client] INFO - Successfully saved File 02.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Weapons
+[Client] INFO - Successfully saved File 03.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Weapons
+[Client] INFO - Successfully saved File 04.xbn.
+[Client] DEBUG - Packet Received [SServerListAck]
+[Client] DEBUG - Server Count: 2
+[Client] DEBUG - Unk: 1 ID: 0 Type: Game Name: Legion Limit: 500 Online: 11 IP: 78.31.64.188 Port: 120 Group: 1
+[Client] DEBUG - Unk: 1 ID: 2 Type: Chat Name: S4_Chat Limit: 500 Online: 11 IP: 78.31.64.188 Port: 230 Group: 1
+[Client] DEBUG - Total Players Online Game: 11 | Chat: 11
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 06.xbn.
+[Client] INFO - Successfully saved File 05.xbn.
+[Client] INFO - Successfully saved File 07.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EffectMatch
+[Client] INFO - Successfully saved File 08.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EnchantData
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EquipLimit
+[Client] INFO - Successfully saved File 09.xbn.
+[Client] INFO - Successfully saved File 10.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: MonsterStatus
+[Client] INFO - Successfully saved File 11.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: MonsterMapMiddle
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EsperAction
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: WeaponTypeReloadInfo
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: AttackRangeLimit
+[Client] INFO - Successfully saved File 14.xbn.
+[Client] INFO - Successfully saved File 12.xbn.
+[Client] INFO - Successfully saved File 13.xbn.
+[Client] INFO - Successfully saved File 15.xbn.
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 78.31.64.188:28002
+[Client] DEBUG - Packet Sent [CLoginEUReq]
+[Client] DEBUG - Packet Sent [CGameDataXBNReq]
+[Client] DEBUG - Packet Sent [CServerListReq]
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: ConstantInfo
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Actions
+[Client] INFO - Successfully saved File 02.xbn.
+[Client] INFO - Successfully saved File 01.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Weapons
+[Client] INFO - Successfully saved File 03.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Weapons
+[Client] INFO - Successfully saved File 04.xbn.
+[Client] DEBUG - Packet Received [SServerListAck]
+[Client] DEBUG - Server Count: 2
+[Client] DEBUG - Unk: 1 ID: 0 Type: Game Name: Legion Limit: 500 Online: 9 IP: 78.31.64.188 Port: 120 Group: 1
+[Client] DEBUG - Unk: 1 ID: 2 Type: Chat Name: S4_Chat Limit: 500 Online: 9 IP: 78.31.64.188 Port: 230 Group: 1
+[Client] DEBUG - Total Players Online Game: 9 | Chat: 9
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 05.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 06.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 07.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EffectMatch
+[Client] INFO - Successfully saved File 08.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EnchantData
+[Client] INFO - Successfully saved File 09.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EquipLimit
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: MonsterStatus
+[Client] INFO - Successfully saved File 10.xbn.
+[Client] INFO - Successfully saved File 11.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: MonsterMapMiddle
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EsperAction
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: WeaponTypeReloadInfo
+[Client] INFO - Successfully saved File 13.xbn.
+[Client] INFO - Successfully saved File 12.xbn.
+[Client] INFO - Successfully saved File 14.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: AttackRangeLimit
+[Client] INFO - Successfully saved File 15.xbn.
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 78.31.64.188:28002
+[Client] DEBUG - Packet Sent [CLoginEUReq]
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 78.31.64.188:28002
+[Client] DEBUG - Packet Sent [CLoginEUReq]
+[Client] DEBUG - Packet Sent [CGameDataXBNReq]
+[Client] DEBUG - Packet Sent [CServerListReq]
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: ConstantInfo
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Actions
+[Client] INFO - Successfully saved File 01.xbn.
+[Client] INFO - Successfully saved File 02.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Weapons
+[Client] INFO - Successfully saved File 03.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Weapons
+[Client] INFO - Successfully saved File 04.xbn.
+[Client] DEBUG - Packet Received [SServerListAck]
+[Client] DEBUG - Server Count: 2
+[Client] DEBUG - Unk: 1 ID: 0 Type: Game Name: Legion Limit: 500 Online: 10 IP: 78.31.64.188 Port: 120 Group: 1
+[Client] DEBUG - Unk: 1 ID: 2 Type: Chat Name: S4_Chat Limit: 500 Online: 10 IP: 78.31.64.188 Port: 230 Group: 1
+[Client] DEBUG - Total Players Online Game: 10 | Chat: 10
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 05.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 06.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 07.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EffectMatch
+[Client] INFO - Successfully saved File 08.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EnchantData
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EquipLimit
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: MonsterStatus
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: MonsterMapMiddle
+[Client] INFO - Successfully saved File 09.xbn.
+[Client] INFO - Successfully saved File 10.xbn.
+[Client] INFO - Successfully saved File 11.xbn.
+[Client] INFO - Successfully saved File 12.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EsperAction
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: WeaponTypeReloadInfo
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: AttackRangeLimit
+[Client] INFO - Successfully saved File 13.xbn.
+[Client] INFO - Successfully saved File 14.xbn.
+[Client] INFO - Successfully saved File 15.xbn.
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 78.31.64.188:28002
+[Client] DEBUG - Packet Sent [CLoginEUReq]
+[Client] DEBUG - Packet Sent [CLoginKRReq]
+[Client] DEBUG - Packet Sent [CGameDataXBNReq]
+[Client] DEBUG - Packet Sent [CServerListReq]
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: ConstantInfo
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Actions
+[Client] INFO - Successfully saved File 02.xbn.
+[Client] INFO - Successfully saved File 01.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Weapons
+[Client] INFO - Successfully saved File 03.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Weapons
+[Client] INFO - Successfully saved File 04.xbn.
+[Client] DEBUG - Packet Received [SServerListAck]
+[Client] DEBUG - Server Count: 2
+[Client] DEBUG - Unk: 1 ID: 0 Type: Game Name: Legion Limit: 500 Online: 10 IP: 78.31.64.188 Port: 120 Group: 1
+[Client] DEBUG - Unk: 1 ID: 2 Type: Chat Name: S4_Chat Limit: 500 Online: 10 IP: 78.31.64.188 Port: 230 Group: 1
+[Client] DEBUG - Total Players Online Game: 10 | Chat: 10
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 05.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 06.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 07.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EffectMatch
+[Client] INFO - Successfully saved File 08.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EnchantData
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EquipLimit
+[Client] INFO - Successfully saved File 09.xbn.
+[Client] INFO - Successfully saved File 10.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: MonsterStatus
+[Client] INFO - Successfully saved File 11.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: MonsterMapMiddle
+[Client] INFO - Successfully saved File 12.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EsperAction
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: WeaponTypeReloadInfo
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: AttackRangeLimit
+[Client] INFO - Successfully saved File 14.xbn.
+[Client] INFO - Successfully saved File 13.xbn.
+[Client] INFO - Successfully saved File 15.xbn.
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 78.31.64.188:28002
+[Client] DEBUG - Packet Sent [CLoginEUReq]
+[Client] DEBUG - Packet Sent [CLoginKRReq]
+[Client] DEBUG - Packet Sent [CGameDataXBNReq]
+[Client] DEBUG - Packet Sent [CServerListReq]
+[Client] DEBUG - Packet Sent [COptionVersionCheckReq]
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: ConstantInfo
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Actions
+[Client] INFO - Successfully saved File 02.xbn.
+[Client] INFO - Successfully saved File 01.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Weapons
+[Client] INFO - Successfully saved File 03.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Weapons
+[Client] INFO - Successfully saved File 04.xbn.
+[Client] DEBUG - Packet Received [SServerListAck]
+[Client] DEBUG - Server Count: 2
+[Client] DEBUG - Unk: 1 ID: 0 Type: Game Name: Legion Limit: 500 Online: 10 IP: 78.31.64.188 Port: 120 Group: 1
+[Client] DEBUG - Unk: 1 ID: 2 Type: Chat Name: S4_Chat Limit: 500 Online: 10 IP: 78.31.64.188 Port: 230 Group: 1
+[Client] DEBUG - Total Players Online Game: 10 | Chat: 10
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 05.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 06.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 07.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EffectMatch
+[Client] INFO - Successfully saved File 08.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EnchantData
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EquipLimit
+[Client] INFO - Successfully saved File 09.xbn.
+[Client] INFO - Successfully saved File 10.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: MonsterStatus
+[Client] INFO - Successfully saved File 11.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: MonsterMapMiddle
+[Client] INFO - Successfully saved File 12.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EsperAction
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: WeaponTypeReloadInfo
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: AttackRangeLimit
+[Client] INFO - Successfully saved File 14.xbn.
+[Client] INFO - Successfully saved File 13.xbn.
+[Client] INFO - Successfully saved File 15.xbn.
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 78.31.64.188:28002
+[Client] DEBUG - Packet Sent [CLoginEUReq]
+[Client] DEBUG - Packet Sent [CLoginKRReq]
+[Client] DEBUG - Packet Sent [CGameDataXBNReq]
+[Client] DEBUG - Packet Sent [CServerListReq]
+[Client] DEBUG - Packet Sent [COptionVersionCheckReq]
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: ConstantInfo
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Actions
+[Client] INFO - Successfully saved File 02.xbn.
+[Client] INFO - Successfully saved File 01.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Weapons
+[Client] INFO - Successfully saved File 03.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Weapons
+[Client] INFO - Successfully saved File 04.xbn.
+[Client] DEBUG - Packet Received [SServerListAck]
+[Client] DEBUG - Server Count: 2
+[Client] DEBUG - Unk: 1 ID: 0 Type: Game Name: Legion Limit: 500 Online: 8 IP: 78.31.64.188 Port: 120 Group: 1
+[Client] DEBUG - Unk: 1 ID: 2 Type: Chat Name: S4_Chat Limit: 500 Online: 8 IP: 78.31.64.188 Port: 230 Group: 1
+[Client] DEBUG - Total Players Online Game: 8 | Chat: 8
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 05.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 06.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 07.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EffectMatch
+[Client] INFO - Successfully saved File 08.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EnchantData
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EquipLimit
+[Client] INFO - Successfully saved File 09.xbn.
+[Client] INFO - Successfully saved File 10.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: MonsterStatus
+[Client] INFO - Successfully saved File 11.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: MonsterMapMiddle
+[Client] INFO - Successfully saved File 12.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EsperAction
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: WeaponTypeReloadInfo
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: AttackRangeLimit
+[Client] INFO - Successfully saved File 14.xbn.
+[Client] INFO - Successfully saved File 13.xbn.
+[Client] INFO - Successfully saved File 15.xbn.
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 78.31.64.188:28002
+[Client] DEBUG - Packet Sent [CLoginEUReq]
+[Client] DEBUG - Packet Sent [CLoginKRReq]
+[Client] DEBUG - Packet Sent [CGameDataXBNReq]
+[Client] DEBUG - Packet Sent [CServerListReq]
+[Client] DEBUG - Packet Sent [COptionVersionCheckReq]
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: ConstantInfo
+[Client] INFO - Successfully saved File 01.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Actions
+[Client] INFO - Successfully saved File 02.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Weapons
+[Client] INFO - Successfully saved File 03.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Weapons
+[Client] INFO - Successfully saved File 04.xbn.
+[Client] DEBUG - Packet Received [SServerListAck]
+[Client] DEBUG - Server Count: 2
+[Client] DEBUG - Unk: 1 ID: 0 Type: Game Name: Legion Limit: 500 Online: 8 IP: 78.31.64.188 Port: 120 Group: 1
+[Client] DEBUG - Unk: 1 ID: 2 Type: Chat Name: S4_Chat Limit: 500 Online: 8 IP: 78.31.64.188 Port: 230 Group: 1
+[Client] DEBUG - Total Players Online Game: 8 | Chat: 8
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 05.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 06.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: Effects
+[Client] INFO - Successfully saved File 07.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EffectMatch
+[Client] INFO - Successfully saved File 08.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EnchantData
+[Client] INFO - Successfully saved File 09.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EquipLimit
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: MonsterStatus
+[Client] INFO - Successfully saved File 10.xbn.
+[Client] INFO - Successfully saved File 11.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: MonsterMapMiddle
+[Client] INFO - Successfully saved File 12.xbn.
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: EsperAction
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: WeaponTypeReloadInfo
+[Client] DEBUG - Packet Received [SGameDataXBNAck]
+[Client] DEBUG - Type: AttackRangeLimit
+[Client] INFO - Successfully saved File 13.xbn.
+[Client] INFO - Successfully saved File 14.xbn.
+[Client] INFO - Successfully saved File 15.xbn.
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 51.195.42.159:121
+[ProudNetClient] ERROR - ProudNet Packet [NotifyProtocolVersionMismatch]
+[Client] INFO - Connection closed
+[Client] INFO - Starting ProudNetClient...

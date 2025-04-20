@@ -1,0 +1,9 @@
+{
+	"name": "ClientLauncher",
+	"description": "Client Launcher for S4 League",
+	"author": "Buffele",
+	"private": true,
+	"scripts": {
+		"start": "cls & node Init.js"
+	}
+}

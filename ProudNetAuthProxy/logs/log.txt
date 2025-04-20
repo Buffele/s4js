@@ -1,0 +1,477 @@
+[Program] INFO - Starting Proxy...
+[Proxy] INFO - Proxy started on 127.0.0.1:28002
+[Program] INFO - Starting Proxy...
+[Proxy] INFO - Proxy started on 127.0.0.1:28002
+[ProudNetProxy] DEBUG - Connected to Destination Server on 43.157.55.180:28002
+[ProudNetClient] ERROR - ProudNet Packet [NotifyProtocolVersionMismatch]
+[ProudNetProxy] DEBUG - Connection closed
+[ProudNetProxy] INFO - Connection closed
+[Program] INFO - Starting Proxy...
+[Proxy] INFO - Proxy started on 127.0.0.1:28002
+[ProudNetProxy] DEBUG - Connected to Destination Server on 43.157.55.180:28002
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [CLoginEUReq][5002]
+[Proxy] DEBUG - 
+01 01 06 30 32 36 38 38 39 01 01 05 31 33 34 35 
+36 01 01 00 01 01 00 00 00 00 00 00 00 00 00 00 
+00 00 00 01 01 00 00 00 00 00 01 01 00 01 01 00 
+01 01 00 01 01 00 01 01 00 01 01 00 01 01 00 01 
+01 00 01 01 00 01 01 00 01 01 00 01 01 00 01 01 
+00 
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SLoginEUAck][5102]
+[Proxy] DEBUG - 
+00 00 00 00 00 00 00 00 00 00 00 00 01 01 00 01 
+01 00 09 01 01 00 01 01 00 01 01 00 01 01 00 01 
+01 00 01 01 00 00 00 00 00 00 00 00 00 01 01 00 
+01 01 00 01 01 00 00 00 00 00 01 01 00 
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SLoginEUAck][5102]
+[Proxy] DEBUG - 
+66 6a 01 77 24 db 12 10 30 d0 ef 00 01 01 00 01 
+01 00 00 01 01 00 01 01 00 01 01 00 01 01 00 01 
+01 00 01 01 00 9c ff ff ff 00 00 00 00 01 01 11 
+49 6e 76 61 6c 69 64 20 61 75 74 68 20 63 6f 64 
+65 01 01 00 01 01 00 00 00 00 00 01 01 00 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [COptionVersionCheckReq][5005]
+[Proxy] DEBUG - 
+66 6a 01 77 00 00 00 00 00 00 00 00 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [CServerListReq][5004]
+[Proxy] DEBUG - 
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SServerListAck][5104]
+[Proxy] DEBUG - 
+0a 00 00 00 01 06 00 00 00 03 00 00 00 01 01 08 
+4c 65 61 67 75 65 72 73 f4 01 58 01 2b 9d 37 b4 
+0e 1f 00 00 01 0a 00 00 00 03 00 00 00 01 01 07 
+44 6f 6d 69 6e 69 63 f4 01 04 00 2b 9d 61 5b 0e 
+1f 01 00 01 0b 00 00 00 03 00 00 00 01 01 09 54 
+68 65 20 55 6e 69 6f 6e f4 01 02 00 2b 9d 37 ac 
+0e 1f 02 00 01 0f 00 00 00 03 00 00 00 01 01 09 
+49 6d 70 65 72 69 61 6c 73 f4 01 2e 00 2b 82 63 
+18 0e 1f 04 00 01 11 00 00 00 03 00 00 00 01 01 
+09 54 68 65 20 57 6f 72 6c 64 f4 01 0e 00 2b 80 
+ee 65 0e 1f 03 00 01 03 00 00 00 05 00 00 00 01 
+01 09 65 75 5f 63 68 61 72 5f 31 f4 01 57 01 2b 
+9d 37 b4 0c 1f 00 00 01 08 00 00 00 05 00 00 00 
+01 01 09 65 75 5f 63 68 61 74 5f 32 f4 01 04 00 
+2b 9d 61 5b 0c 1f 01 00 01 09 00 00 00 05 00 00 
+00 01 01 09 65 75 5f 63 68 61 74 5f 33 f4 01 02 
+00 2b 9d 37 ac 0c 1f 02 00 01 0e 00 00 00 05 00 
+00 00 01 01 09 75 73 5f 63 68 61 74 5f 31 f4 01 
+2d 00 2b 82 63 18 0c 1f 04 00 01 13 00 00 00 05 
+00 00 00 01 01 09 6a 70 5f 63 68 61 74 5f 31 f4 
+01 0e 00 2b 80 ee 65 0c 1f 03 00 
+[ProudNetProxy] INFO - Connection closed
+[Program] INFO - Starting Proxy...
+[Proxy] INFO - Proxy started on 127.0.0.1:28002
+[ProudNetProxy] DEBUG - Connected to Destination Server on 43.157.55.180:28002
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Sending uwu req
+[Program] ERROR - ReferenceError: CLoginKRReq is not defined
+    at ProudNetProxy.<anonymous> (D:\Rubbish\BuffeleStructs\ProudNetAuthProxy\Proxy.js:40:18)
+    at ProudNetProxy.emit (node:events:513:28)
+    at ProudNetProxy.<anonymous> (D:\Rubbish\BuffeleStructs\Core\ProudNet\Proxy.js:97:8)
+    at ProudNetServer.emit (node:events:513:28)
+    at processPacket (D:\Rubbish\BuffeleStructs\Core\ProudNet\Server.js:529:9)
+    at processPacket (D:\Rubbish\BuffeleStructs\Core\ProudNet\Server.js:852:3)
+    at newPacket (D:\Rubbish\BuffeleStructs\Core\ProudNet\Server.js:150:2)
+    at parseData (D:\Rubbish\BuffeleStructs\Core\ProudNet\Server.js:131:2)
+    at D:\Rubbish\BuffeleStructs\Core\ProudNet\Server.js:139:3
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[ProudNetProxy] DEBUG - Connection closed
+[ProudNetProxy] INFO - Connection closed
+[Program] INFO - Starting Proxy...
+[Proxy] INFO - Proxy started on 127.0.0.1:28002
+[ProudNetProxy] DEBUG - Connected to Destination Server on 43.157.55.180:28002
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Sending uwu req
+[Program] ERROR - TypeError: this.data.writeInt64LE is not a function
+    at Packet.writeProudSize (D:\Rubbish\BuffeleStructs\Core\Network\Packet.js:271:13)
+    at Packet.writeProudString (D:\Rubbish\BuffeleStructs\Core\Network\Packet.js:286:7)
+    at Object.serialize (D:\Rubbish\BuffeleStructs\Core\S4League\Auth\C2S\CLoginKRReq.js:19:10)
+    at ProudNetProxy.<anonymous> (D:\Rubbish\BuffeleStructs\ProudNetAuthProxy\Proxy.js:39:30)
+    at ProudNetProxy.emit (node:events:513:28)
+    at ProudNetProxy.<anonymous> (D:\Rubbish\BuffeleStructs\Core\ProudNet\Proxy.js:97:8)
+    at ProudNetServer.emit (node:events:513:28)
+    at processPacket (D:\Rubbish\BuffeleStructs\Core\ProudNet\Server.js:529:9)
+    at processPacket (D:\Rubbish\BuffeleStructs\Core\ProudNet\Server.js:852:3)
+    at newPacket (D:\Rubbish\BuffeleStructs\Core\ProudNet\Server.js:150:2)
+[ProudNetProxy] DEBUG - Connection closed
+[ProudNetProxy] INFO - Connection closed
+[Program] INFO - Starting Proxy...
+[Proxy] INFO - Proxy started on 127.0.0.1:28002
+[ProudNetProxy] DEBUG - Connected to Destination Server on 43.157.55.180:28002
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Sending uwu req
+[ProudNetProxy] DEBUG - Connection closed
+[ProudNetProxy] INFO - Connection closed
+[Program] INFO - Starting Proxy...
+[Proxy] INFO - Proxy started on 127.0.0.1:28002
+[ProudNetProxy] DEBUG - Connected to Destination Server on 43.157.55.180:28002
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Sending uwu req
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SLoginKRAck][5101]
+[Proxy] DEBUG - 
+03 00 00 00 00 00 00 00 24 f9 be 00 01 01 00 01 
+01 05 32 36 35 30 30 00 01 01 00 01 01 00 01 01 
+00 01 01 00 01 01 00 01 01 00 54 e9 00 04 40 e8 
+be 04 01 01 00 01 01 00 01 01 00 60 e9 be 04 01 
+01 00 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [COptionVersionCheckReq][5005]
+[Proxy] DEBUG - 
+00 00 00 00 00 00 00 00 12 b4 d7 54 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [CServerListReq][5004]
+[Proxy] DEBUG - 
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SServerListAck][5104]
+[Proxy] DEBUG - 
+0a 00 00 00 01 06 00 00 00 03 00 00 00 01 01 08 
+4c 65 61 67 75 65 72 73 f4 01 6b 01 2b 9d 37 b4 
+0e 1f 00 00 01 0a 00 00 00 03 00 00 00 01 01 07 
+44 6f 6d 69 6e 69 63 f4 01 0a 00 2b 9d 61 5b 0e 
+1f 01 00 01 0b 00 00 00 03 00 00 00 01 01 09 54 
+68 65 20 55 6e 69 6f 6e f4 01 03 00 2b 9d 37 ac 
+0e 1f 02 00 01 0f 00 00 00 03 00 00 00 01 01 09 
+49 6d 70 65 72 69 61 6c 73 f4 01 28 00 2b 82 63 
+18 0e 1f 04 00 01 11 00 00 00 03 00 00 00 01 01 
+09 54 68 65 20 57 6f 72 6c 64 f4 01 0f 00 2b 80 
+ee 65 0e 1f 03 00 01 03 00 00 00 05 00 00 00 01 
+01 09 65 75 5f 63 68 61 72 5f 31 f4 01 69 01 2b 
+9d 37 b4 0c 1f 00 00 01 08 00 00 00 05 00 00 00 
+01 01 09 65 75 5f 63 68 61 74 5f 32 f4 01 0a 00 
+2b 9d 61 5b 0c 1f 01 00 01 09 00 00 00 05 00 00 
+00 01 01 09 65 75 5f 63 68 61 74 5f 33 f4 01 03 
+00 2b 9d 37 ac 0c 1f 02 00 01 0e 00 00 00 05 00 
+00 00 01 01 09 75 73 5f 63 68 61 74 5f 31 f4 01 
+28 00 2b 82 63 18 0c 1f 04 00 01 13 00 00 00 05 
+00 00 00 01 01 09 6a 70 5f 63 68 61 74 5f 31 f4 
+01 0f 00 2b 80 ee 65 0c 1f 03 00 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [CServerListReq][5004]
+[Proxy] DEBUG - 
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SServerListAck][5104]
+[Proxy] DEBUG - 
+0a 00 00 00 01 06 00 00 00 03 00 00 00 01 01 08 
+4c 65 61 67 75 65 72 73 f4 01 6b 01 2b 9d 37 b4 
+0e 1f 00 00 01 0a 00 00 00 03 00 00 00 01 01 07 
+44 6f 6d 69 6e 69 63 f4 01 09 00 2b 9d 61 5b 0e 
+1f 01 00 01 0b 00 00 00 03 00 00 00 01 01 09 54 
+68 65 20 55 6e 69 6f 6e f4 01 04 00 2b 9d 37 ac 
+0e 1f 02 00 01 0f 00 00 00 03 00 00 00 01 01 09 
+49 6d 70 65 72 69 61 6c 73 f4 01 29 00 2b 82 63 
+18 0e 1f 04 00 01 11 00 00 00 03 00 00 00 01 01 
+09 54 68 65 20 57 6f 72 6c 64 f4 01 0f 00 2b 80 
+ee 65 0e 1f 03 00 01 03 00 00 00 05 00 00 00 01 
+01 09 65 75 5f 63 68 61 72 5f 31 f4 01 69 01 2b 
+9d 37 b4 0c 1f 00 00 01 08 00 00 00 05 00 00 00 
+01 01 09 65 75 5f 63 68 61 74 5f 32 f4 01 09 00 
+2b 9d 61 5b 0c 1f 01 00 01 09 00 00 00 05 00 00 
+00 01 01 09 65 75 5f 63 68 61 74 5f 33 f4 01 03 
+00 2b 9d 37 ac 0c 1f 02 00 01 0e 00 00 00 05 00 
+00 00 01 01 09 75 73 5f 63 68 61 74 5f 31 f4 01 
+29 00 2b 82 63 18 0c 1f 04 00 01 13 00 00 00 05 
+00 00 00 01 01 09 6a 70 5f 63 68 61 74 5f 31 f4 
+01 0f 00 2b 80 ee 65 0c 1f 03 00 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [CServerListReq][5004]
+[Proxy] DEBUG - 
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SServerListAck][5104]
+[Proxy] DEBUG - 
+0a 00 00 00 01 06 00 00 00 03 00 00 00 01 01 08 
+4c 65 61 67 75 65 72 73 f4 01 6b 01 2b 9d 37 b4 
+0e 1f 00 00 01 0a 00 00 00 03 00 00 00 01 01 07 
+44 6f 6d 69 6e 69 63 f4 01 09 00 2b 9d 61 5b 0e 
+1f 01 00 01 0b 00 00 00 03 00 00 00 01 01 09 54 
+68 65 20 55 6e 69 6f 6e f4 01 04 00 2b 9d 37 ac 
+0e 1f 02 00 01 0f 00 00 00 03 00 00 00 01 01 09 
+49 6d 70 65 72 69 61 6c 73 f4 01 29 00 2b 82 63 
+18 0e 1f 04 00 01 11 00 00 00 03 00 00 00 01 01 
+09 54 68 65 20 57 6f 72 6c 64 f4 01 0f 00 2b 80 
+ee 65 0e 1f 03 00 01 03 00 00 00 05 00 00 00 01 
+01 09 65 75 5f 63 68 61 72 5f 31 f4 01 69 01 2b 
+9d 37 b4 0c 1f 00 00 01 08 00 00 00 05 00 00 00 
+01 01 09 65 75 5f 63 68 61 74 5f 32 f4 01 09 00 
+2b 9d 61 5b 0c 1f 01 00 01 09 00 00 00 05 00 00 
+00 01 01 09 65 75 5f 63 68 61 74 5f 33 f4 01 04 
+00 2b 9d 37 ac 0c 1f 02 00 01 0e 00 00 00 05 00 
+00 00 01 01 09 75 73 5f 63 68 61 74 5f 31 f4 01 
+29 00 2b 82 63 18 0c 1f 04 00 01 13 00 00 00 05 
+00 00 00 01 01 09 6a 70 5f 63 68 61 74 5f 31 f4 
+01 0f 00 2b 80 ee 65 0c 1f 03 00 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [CServerListReq][5004]
+[Proxy] DEBUG - 
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SServerListAck][5104]
+[Proxy] DEBUG - 
+0a 00 00 00 01 06 00 00 00 03 00 00 00 01 01 08 
+4c 65 61 67 75 65 72 73 f4 01 6b 01 2b 9d 37 b4 
+0e 1f 00 00 01 0a 00 00 00 03 00 00 00 01 01 07 
+44 6f 6d 69 6e 69 63 f4 01 09 00 2b 9d 61 5b 0e 
+1f 01 00 01 0b 00 00 00 03 00 00 00 01 01 09 54 
+68 65 20 55 6e 69 6f 6e f4 01 04 00 2b 9d 37 ac 
+0e 1f 02 00 01 0f 00 00 00 03 00 00 00 01 01 09 
+49 6d 70 65 72 69 61 6c 73 f4 01 29 00 2b 82 63 
+18 0e 1f 04 00 01 11 00 00 00 03 00 00 00 01 01 
+09 54 68 65 20 57 6f 72 6c 64 f4 01 0f 00 2b 80 
+ee 65 0e 1f 03 00 01 03 00 00 00 05 00 00 00 01 
+01 09 65 75 5f 63 68 61 72 5f 31 f4 01 69 01 2b 
+9d 37 b4 0c 1f 00 00 01 08 00 00 00 05 00 00 00 
+01 01 09 65 75 5f 63 68 61 74 5f 32 f4 01 09 00 
+2b 9d 61 5b 0c 1f 01 00 01 09 00 00 00 05 00 00 
+00 01 01 09 65 75 5f 63 68 61 74 5f 33 f4 01 04 
+00 2b 9d 37 ac 0c 1f 02 00 01 0e 00 00 00 05 00 
+00 00 01 01 09 75 73 5f 63 68 61 74 5f 31 f4 01 
+28 00 2b 82 63 18 0c 1f 04 00 01 13 00 00 00 05 
+00 00 00 01 01 09 6a 70 5f 63 68 61 74 5f 31 f4 
+01 0f 00 2b 80 ee 65 0c 1f 03 00 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [CServerListReq][5004]
+[Proxy] DEBUG - 
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SServerListAck][5104]
+[Proxy] DEBUG - 
+0a 00 00 00 01 06 00 00 00 03 00 00 00 01 01 08 
+4c 65 61 67 75 65 72 73 f4 01 71 01 2b 9d 37 b4 
+0e 1f 00 00 01 0a 00 00 00 03 00 00 00 01 01 07 
+44 6f 6d 69 6e 69 63 f4 01 08 00 2b 9d 61 5b 0e 
+1f 01 00 01 0b 00 00 00 03 00 00 00 01 01 09 54 
+68 65 20 55 6e 69 6f 6e f4 01 04 00 2b 9d 37 ac 
+0e 1f 02 00 01 0f 00 00 00 03 00 00 00 01 01 09 
+49 6d 70 65 72 69 61 6c 73 f4 01 2b 00 2b 82 63 
+18 0e 1f 04 00 01 11 00 00 00 03 00 00 00 01 01 
+09 54 68 65 20 57 6f 72 6c 64 f4 01 10 00 2b 80 
+ee 65 0e 1f 03 00 01 03 00 00 00 05 00 00 00 01 
+01 09 65 75 5f 63 68 61 72 5f 31 f4 01 70 01 2b 
+9d 37 b4 0c 1f 00 00 01 08 00 00 00 05 00 00 00 
+01 01 09 65 75 5f 63 68 61 74 5f 32 f4 01 08 00 
+2b 9d 61 5b 0c 1f 01 00 01 09 00 00 00 05 00 00 
+00 01 01 09 65 75 5f 63 68 61 74 5f 33 f4 01 04 
+00 2b 9d 37 ac 0c 1f 02 00 01 0e 00 00 00 05 00 
+00 00 01 01 09 75 73 5f 63 68 61 74 5f 31 f4 01 
+2a 00 2b 82 63 18 0c 1f 04 00 01 13 00 00 00 05 
+00 00 00 01 01 09 6a 70 5f 63 68 61 74 5f 31 f4 
+01 10 00 2b 80 ee 65 0c 1f 03 00 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [CServerListReq][5004]
+[Proxy] DEBUG - 
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SServerListAck][5104]
+[Proxy] DEBUG - 
+0a 00 00 00 01 06 00 00 00 03 00 00 00 01 01 08 
+4c 65 61 67 75 65 72 73 f4 01 71 01 2b 9d 37 b4 
+0e 1f 00 00 01 0a 00 00 00 03 00 00 00 01 01 07 
+44 6f 6d 69 6e 69 63 f4 01 08 00 2b 9d 61 5b 0e 
+1f 01 00 01 0b 00 00 00 03 00 00 00 01 01 09 54 
+68 65 20 55 6e 69 6f 6e f4 01 04 00 2b 9d 37 ac 
+0e 1f 02 00 01 0f 00 00 00 03 00 00 00 01 01 09 
+49 6d 70 65 72 69 61 6c 73 f4 01 2b 00 2b 82 63 
+18 0e 1f 04 00 01 11 00 00 00 03 00 00 00 01 01 
+09 54 68 65 20 57 6f 72 6c 64 f4 01 10 00 2b 80 
+ee 65 0e 1f 03 00 01 03 00 00 00 05 00 00 00 01 
+01 09 65 75 5f 63 68 61 72 5f 31 f4 01 70 01 2b 
+9d 37 b4 0c 1f 00 00 01 08 00 00 00 05 00 00 00 
+01 01 09 65 75 5f 63 68 61 74 5f 32 f4 01 08 00 
+2b 9d 61 5b 0c 1f 01 00 01 09 00 00 00 05 00 00 
+00 01 01 09 65 75 5f 63 68 61 74 5f 33 f4 01 04 
+00 2b 9d 37 ac 0c 1f 02 00 01 0e 00 00 00 05 00 
+00 00 01 01 09 75 73 5f 63 68 61 74 5f 31 f4 01 
+2a 00 2b 82 63 18 0c 1f 04 00 01 13 00 00 00 05 
+00 00 00 01 01 09 6a 70 5f 63 68 61 74 5f 31 f4 
+01 10 00 2b 80 ee 65 0c 1f 03 00 
+[ProudNetProxy] INFO - Connection closed
+[Program] INFO - Starting Proxy...
+[Proxy] INFO - Proxy started on 127.0.0.1:28002
+[ProudNetProxy] DEBUG - Connected to Destination Server on 43.157.55.180:28002
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Sending uwu req
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SLoginKRAck][5101]
+[Proxy] DEBUG - 
+03 00 00 00 00 00 00 00 24 f9 be 00 01 01 00 01 
+01 05 31 31 34 37 38 00 01 01 00 01 01 00 01 01 
+00 01 01 00 01 01 00 01 01 00 54 e9 00 04 40 e8 
+be 04 01 01 00 01 01 00 01 01 00 60 e9 be 04 01 
+01 00 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [COptionVersionCheckReq][5005]
+[Proxy] DEBUG - 
+00 00 00 00 00 00 00 00 12 b4 d7 54 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [CServerListReq][5004]
+[Proxy] DEBUG - 
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SServerListAck][5104]
+[Proxy] DEBUG - 
+0a 00 00 00 01 06 00 00 00 03 00 00 00 01 01 08 
+4c 65 61 67 75 65 72 73 f4 01 72 01 2b 9d 37 b4 
+0e 1f 00 00 01 0a 00 00 00 03 00 00 00 01 01 07 
+44 6f 6d 69 6e 69 63 f4 01 08 00 2b 9d 61 5b 0e 
+1f 01 00 01 0b 00 00 00 03 00 00 00 01 01 09 54 
+68 65 20 55 6e 69 6f 6e f4 01 02 00 2b 9d 37 ac 
+0e 1f 02 00 01 0f 00 00 00 03 00 00 00 01 01 09 
+49 6d 70 65 72 69 61 6c 73 f4 01 32 00 2b 82 63 
+18 0e 1f 04 00 01 11 00 00 00 03 00 00 00 01 01 
+09 54 68 65 20 57 6f 72 6c 64 f4 01 0e 00 2b 80 
+ee 65 0e 1f 03 00 01 03 00 00 00 05 00 00 00 01 
+01 09 65 75 5f 63 68 61 72 5f 31 f4 01 71 01 2b 
+9d 37 b4 0c 1f 00 00 01 08 00 00 00 05 00 00 00 
+01 01 09 65 75 5f 63 68 61 74 5f 32 f4 01 08 00 
+2b 9d 61 5b 0c 1f 01 00 01 09 00 00 00 05 00 00 
+00 01 01 09 65 75 5f 63 68 61 74 5f 33 f4 01 02 
+00 2b 9d 37 ac 0c 1f 02 00 01 0e 00 00 00 05 00 
+00 00 01 01 09 75 73 5f 63 68 61 74 5f 31 f4 01 
+32 00 2b 82 63 18 0c 1f 04 00 01 13 00 00 00 05 
+00 00 00 01 01 09 6a 70 5f 63 68 61 74 5f 31 f4 
+01 0e 00 2b 80 ee 65 0c 1f 03 00 
+[Program] ERROR - ReferenceError: SServerListAck is not defined
+    at ProudNetProxy.<anonymous> (D:\Rubbish\BuffeleStructs\ProudNetAuthProxy\Proxy.js:32:22)
+    at ProudNetProxy.emit (node:events:513:28)
+    at ProudNetProxy.<anonymous> (D:\Rubbish\BuffeleStructs\Core\ProudNet\Proxy.js:88:9)
+    at ProudNetClient.emit (node:events:513:28)
+    at processPacket (D:\Rubbish\BuffeleStructs\Core\ProudNet\Client.js:542:9)
+    at processPacket (D:\Rubbish\BuffeleStructs\Core\ProudNet\Client.js:839:3)
+    at newPacket (D:\Rubbish\BuffeleStructs\Core\ProudNet\Client.js:163:2)
+    at parseData (D:\Rubbish\BuffeleStructs\Core\ProudNet\Client.js:149:2)
+    at ProudNetClient.<anonymous> (D:\Rubbish\BuffeleStructs\Core\ProudNet\Client.js:911:3)
+    at Socket.emit (node:events:513:28)
+[ProudNetProxy] INFO - Connection closed
+[Program] INFO - Starting Proxy...
+[Proxy] INFO - Proxy started on 127.0.0.1:28002
+[ProudNetProxy] DEBUG - Connected to Destination Server on 43.157.55.180:28002
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Sending uwu req
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SLoginKRAck][5101]
+[Proxy] DEBUG - 
+03 00 00 00 00 00 00 00 24 f9 be 00 01 01 00 01 
+01 05 32 39 33 35 38 00 01 01 00 01 01 00 01 01 
+00 01 01 00 01 01 00 01 01 00 54 e9 00 04 40 e8 
+be 04 01 01 00 01 01 00 01 01 00 60 e9 be 04 01 
+01 00 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [COptionVersionCheckReq][5005]
+[Proxy] DEBUG - 
+00 00 00 00 00 00 00 00 12 b4 d7 54 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [CServerListReq][5004]
+[Proxy] DEBUG - 
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SServerListAck][5104]
+[Proxy] DEBUG - 
+0a 00 00 00 01 06 00 00 00 03 00 00 00 01 01 08 
+4c 65 61 67 75 65 72 73 f4 01 74 01 2b 9d 37 b4 
+0e 1f 00 00 01 0a 00 00 00 03 00 00 00 01 01 07 
+44 6f 6d 69 6e 69 63 f4 01 05 00 2b 9d 61 5b 0e 
+1f 01 00 01 0b 00 00 00 03 00 00 00 01 01 09 54 
+68 65 20 55 6e 69 6f 6e f4 01 03 00 2b 9d 37 ac 
+0e 1f 02 00 01 0f 00 00 00 03 00 00 00 01 01 09 
+49 6d 70 65 72 69 61 6c 73 f4 01 36 00 2b 82 63 
+18 0e 1f 04 00 01 11 00 00 00 03 00 00 00 01 01 
+09 54 68 65 20 57 6f 72 6c 64 f4 01 0d 00 2b 80 
+ee 65 0e 1f 03 00 01 03 00 00 00 05 00 00 00 01 
+01 09 65 75 5f 63 68 61 72 5f 31 f4 01 72 01 2b 
+9d 37 b4 0c 1f 00 00 01 08 00 00 00 05 00 00 00 
+01 01 09 65 75 5f 63 68 61 74 5f 32 f4 01 05 00 
+2b 9d 61 5b 0c 1f 01 00 01 09 00 00 00 05 00 00 
+00 01 01 09 65 75 5f 63 68 61 74 5f 33 f4 01 03 
+00 2b 9d 37 ac 0c 1f 02 00 01 0e 00 00 00 05 00 
+00 00 01 01 09 75 73 5f 63 68 61 74 5f 31 f4 01 
+36 00 2b 82 63 18 0c 1f 04 00 01 13 00 00 00 05 
+00 00 00 01 01 09 6a 70 5f 63 68 61 74 5f 31 f4 
+01 0d 00 2b 80 ee 65 0c 1f 03 00 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [CServerListReq][5004]
+[Proxy] DEBUG - 
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SServerListAck][5104]
+[Proxy] DEBUG - 
+0a 00 00 00 01 06 00 00 00 03 00 00 00 01 01 08 
+4c 65 61 67 75 65 72 73 f4 01 78 01 2b 9d 37 b4 
+0e 1f 00 00 01 0a 00 00 00 03 00 00 00 01 01 07 
+44 6f 6d 69 6e 69 63 f4 01 05 00 2b 9d 61 5b 0e 
+1f 01 00 01 0b 00 00 00 03 00 00 00 01 01 09 54 
+68 65 20 55 6e 69 6f 6e f4 01 03 00 2b 9d 37 ac 
+0e 1f 02 00 01 0f 00 00 00 03 00 00 00 01 01 09 
+49 6d 70 65 72 69 61 6c 73 f4 01 37 00 2b 82 63 
+18 0e 1f 04 00 01 11 00 00 00 03 00 00 00 01 01 
+09 54 68 65 20 57 6f 72 6c 64 f4 01 0d 00 2b 80 
+ee 65 0e 1f 03 00 01 03 00 00 00 05 00 00 00 01 
+01 09 65 75 5f 63 68 61 72 5f 31 f4 01 74 01 2b 
+9d 37 b4 0c 1f 00 00 01 08 00 00 00 05 00 00 00 
+01 01 09 65 75 5f 63 68 61 74 5f 32 f4 01 05 00 
+2b 9d 61 5b 0c 1f 01 00 01 09 00 00 00 05 00 00 
+00 01 01 09 65 75 5f 63 68 61 74 5f 33 f4 01 03 
+00 2b 9d 37 ac 0c 1f 02 00 01 0e 00 00 00 05 00 
+00 00 01 01 09 75 73 5f 63 68 61 74 5f 31 f4 01 
+37 00 2b 82 63 18 0c 1f 04 00 01 13 00 00 00 05 
+00 00 00 01 01 09 6a 70 5f 63 68 61 74 5f 31 f4 
+01 0d 00 2b 80 ee 65 0c 1f 03 00 
+[ProudNetProxy] INFO - Connection closed
+[ProudNetProxy] DEBUG - Connected to Destination Server on 43.157.55.180:28002
+[ProudNetServer] DEBUG - 
+7c 8f a4 c9 df 6b 55 b9 42 53 3d 61 6f 44 bf df 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Sending uwu req
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SLoginKRAck][5101]
+[Proxy] DEBUG - 
+03 00 00 00 00 00 00 00 24 f9 be 00 01 01 00 01 
+01 05 32 36 39 36 32 00 01 01 00 01 01 00 01 01 
+00 01 01 00 01 01 00 01 01 00 54 e9 00 04 40 e8 
+be 04 01 01 00 01 01 00 01 01 00 60 e9 be 04 01 
+01 00 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [COptionVersionCheckReq][5005]
+[Proxy] DEBUG - 
+00 00 00 00 00 00 00 00 12 b4 d7 54 
+[Proxy] DEBUG - Client --> Server:
+[Proxy] DEBUG - Packet Sent [CServerListReq][5004]
+[Proxy] DEBUG - 
+[Proxy] DEBUG - Client <-- Server:
+[Proxy] DEBUG - Packet received: [SServerListAck][5104]
+[Proxy] DEBUG - 
+0a 00 00 00 01 06 00 00 00 03 00 00 00 01 01 08 
+4c 65 61 67 75 65 72 73 f4 01 82 01 2b 9d 37 b4 
+0e 1f 00 00 01 0a 00 00 00 03 00 00 00 01 01 07 
+44 6f 6d 69 6e 69 63 f4 01 04 00 2b 9d 61 5b 0e 
+1f 01 00 01 0b 00 00 00 03 00 00 00 01 01 09 54 
+68 65 20 55 6e 69 6f 6e f4 01 01 00 2b 9d 37 ac 
+0e 1f 02 00 01 0f 00 00 00 03 00 00 00 01 01 09 
+49 6d 70 65 72 69 61 6c 73 f4 01 3a 00 2b 82 63 
+18 0e 1f 04 00 01 11 00 00 00 03 00 00 00 01 01 
+09 54 68 65 20 57 6f 72 6c 64 f4 01 0e 00 2b 80 
+ee 65 0e 1f 03 00 01 03 00 00 00 05 00 00 00 01 
+01 09 65 75 5f 63 68 61 72 5f 31 f4 01 80 01 2b 
+9d 37 b4 0c 1f 00 00 01 08 00 00 00 05 00 00 00 
+01 01 09 65 75 5f 63 68 61 74 5f 32 f4 01 04 00 
+2b 9d 61 5b 0c 1f 01 00 01 09 00 00 00 05 00 00 
+00 01 01 09 65 75 5f 63 68 61 74 5f 33 f4 01 01 
+00 2b 9d 37 ac 0c 1f 02 00 01 0e 00 00 00 05 00 
+00 00 01 01 09 75 73 5f 63 68 61 74 5f 31 f4 01 
+3a 00 2b 82 63 18 0c 1f 04 00 01 13 00 00 00 05 
+00 00 00 01 01 09 6a 70 5f 63 68 61 74 5f 31 f4 
+01 0e 00 2b 80 ee 65 0c 1f 03 00 
+[ProudNetProxy] INFO - Connection closed

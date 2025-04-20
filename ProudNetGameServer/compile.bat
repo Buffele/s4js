@@ -1,0 +1,1 @@
+enclose --loglevel info --config "./compileConfig.js" -o ./GameServer.exe ./GameServer.js & cmd /k

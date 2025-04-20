@@ -1,0 +1,12 @@
+{
+	"username": "123",
+	"password": "456",
+	"server": 1,
+	"reconnectDelay": 0,
+	"version": {
+		"major": 38,
+		"minor": 33451,
+		"build": 514,
+		"revision": 37889
+	}
+}

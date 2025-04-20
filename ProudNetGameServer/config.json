@@ -1,0 +1,523 @@
+{
+	"ip": "127.0.0.1",
+	"port": 28008,
+	"proudnet": {
+		"encryptionKeyLength": 128,
+		"rsaBits": 1024
+	},
+	"testMode": true,
+	"resourceHashKeyCheck": false,
+	"relay": {
+		"ip": "127.0.0.1",
+		"port": 28012
+	},
+	"channels": [
+		{
+			"id": 1,
+			"playerLimit": 400,
+			"type": "Speed",
+			"name": "Beginner 1",
+			"rank": "ROOKIE",
+			"description": "Level 0 - 20",
+			"color": {
+				"r": 36,
+				"g": 255,
+				"b": 0,
+				"a": 255
+			},
+			"minLevel": 0,
+			"maxLevel": 20,
+			"minRequireKDRate": 0,
+			"maxRequireKDRate": -1
+		},
+		{
+			"id": 2,
+			"playerLimit": 400,
+			"type": "Speed",
+			"name": "Beginner 2",
+			"rank": "ROOKIE",
+			"description": "Level 0 - 20",
+			"color": {
+				"r": 36,
+				"g": 255,
+				"b": 0,
+				"a": 255
+			},
+			"minLevel": 0,
+			"maxLevel": 20,
+			"minRequireKDRate": 0,
+			"maxRequireKDRate": -1
+		},
+		{
+			"id": 3,
+			"playerLimit": 600,
+			"type": "Speed",
+			"name": "Amateur 1",
+			"rank": "Super Rookie",
+			"description": "Level 15 - 35",
+			"color": {
+				"r": 254,
+				"g": 203,
+				"b": 0,
+				"a": 255
+			},
+			"minLevel": 15,
+			"maxLevel": 35,
+			"minRequireKDRate": 0,
+			"maxRequireKDRate": -1
+		},
+		{
+			"id": 4,
+			"playerLimit": 600,
+			"type": "Speed",
+			"name": "Amateur 2",
+			"rank": "Super Rookie",
+			"description": "Level 15 - 35",
+			"color": {
+				"r": 254,
+				"g": 203,
+				"b": 0,
+				"a": 255
+			},
+			"minLevel": 15,
+			"maxLevel": 35,
+			"minRequireKDRate": 0,
+			"maxRequireKDRate": -1
+		},
+		{
+			"id": 5,
+			"playerLimit": 600,
+			"type": "Speed",
+			"name": "Pro 1",
+			"rank": "Pro",
+			"description": "Level 30 - 55",
+			"color": {
+				"r": 254,
+				"g": 203,
+				"b": 0,
+				"a": 255
+			},
+			"minLevel": 30,
+			"maxLevel": 55,
+			"minRequireKDRate": 0,
+			"maxRequireKDRate": -1
+		},
+		{
+			"id": 6,
+			"playerLimit": 600,
+			"type": "Speed",
+			"name": "Pro 2",
+			"rank": "Pro",
+			"description": "Level 30 - 55",
+			"color": {
+				"r": 254,
+				"g": 203,
+				"b": 0,
+				"a": 255
+			},
+			"minLevel": 30,
+			"maxLevel": 55,
+			"minRequireKDRate": 0,
+			"maxRequireKDRate": -1
+		},
+		{
+			"id": 7,
+			"playerLimit": 600,
+			"type": "Speed",
+			"name": "Elite 1",
+			"rank": "Elite",
+			"description": "Level 50 - 80",
+			"color": {
+				"r": 254,
+				"g": 203,
+				"b": 0,
+				"a": 255
+			},
+			"minLevel": 50,
+			"maxLevel": 80,
+			"minRequireKDRate": 0,
+			"maxRequireKDRate": -1
+		},
+		{
+			"id": 8,
+			"playerLimit": 600,
+			"type": "Speed",
+			"name": "Elite 2",
+			"rank": "Elite",
+			"description": "Level 50 - 80",
+			"color": {
+				"r": 254,
+				"g": 203,
+				"b": 0,
+				"a": 255
+			},
+			"minLevel": 50,
+			"maxLevel": 80,
+			"minRequireKDRate": 0,
+			"maxRequireKDRate": -1
+		},
+		{
+			"id": 9,
+			"playerLimit": 600,
+			"type": "Speed",
+			"name": "Free 1",
+			"rank": "FREE",
+			"description": "Unlimited",
+			"color": {
+				"r": 255,
+				"g": 144,
+				"b": 0,
+				"a": 255
+			},
+			"minLevel": 0,
+			"maxLevel": 999,
+			"minRequireKDRate": 0,
+			"maxRequireKDRate": -1
+		},
+		{
+			"id": 10,
+			"playerLimit": 600,
+			"type": "Speed",
+			"name": "Free 2",
+			"rank": "Free Event",
+			"description": "Level 8 - 80",
+			"color": {
+				"r": 255,
+				"g": 144,
+				"b": 0,
+				"a": 255
+			},
+			"minLevel": 8,
+			"maxLevel": 80,
+			"minRequireKDRate": 0,
+			"maxRequireKDRate": -1
+		},
+		{
+			"id": 11,
+			"playerLimit": 300,
+			"type": "Club",
+			"name": "Clan",
+			"rank": "CLUB",
+			"description": "Unlimited",
+			"color": {
+				"r": 255,
+				"g": 144,
+				"b": 0,
+				"a": 255
+			},
+			"minLevel": 0,
+			"maxLevel": 999,
+			"minRequireKDRate": 0,
+			"maxRequireKDRate": -1
+		}
+	],
+	"items": [
+		{
+			"id": 1,
+			"itemId": 2010033,
+			"shopId": 4,
+			"periodType": 1,
+			"period": 0,
+			"color": 0,
+			"expireTime": 0,
+			"durability": 2400,
+			"effects": [],
+			"enchantMP": 0,
+			"enchantLevel": 0
+		},
+		{
+			"id": 3,
+			"itemId": 3000003,
+			"shopId": 1,
+			"periodType": 1,
+			"period": 0,
+			"color": 0,
+			"expireTime": 0,
+			"durability": 2400,
+			"effects": [
+				{
+					"effectId": 1999300010
+				},
+				{
+					"effectId": 1999301011
+				},
+				{
+					"effectId": 1300301012
+				},
+				{
+					"effectId": 1999307002
+				}
+			],
+			"enchantMP": 0,
+			"enchantLevel": 0
+		},
+		{
+			"id": 4,
+			"itemId": 3020001,
+			"shopId": 1,
+			"periodType": 2,
+			"period": 5,
+			"color": 0,
+			"expireTime": 0,
+			"durability": 17852,
+			"effects": [
+
+			],
+			"enchantMP": 0,
+			"enchantLevel": 0
+		},
+		{
+			"id": 5,
+			"itemId": 2000009,
+			"shopId": 4,
+			"periodType": 1,
+			"period": 0,
+			"color": 0,
+			"expireTime": 0,
+			"durability": 2400,
+			"effects": [
+
+			],
+			"enchantMP": 0,
+			"enchantLevel": 0
+		},
+		{
+			"id": 8,
+			"itemId": 2000001,
+			"shopId": 4,
+			"periodType": 1,
+			"period": 0,
+			"color": 7,
+			"expireTime": 0,
+			"durability": 2400,
+			"effects": [],
+			"enchantMP": 0,
+			"enchantLevel": 0
+		},
+		{
+			"id": 9,
+			"itemId": 2000002,
+			"shopId": 4,
+			"periodType": 1,
+			"period": 0,
+			"color": 3,
+			"expireTime": 0,
+			"durability": 2400,
+			"effects": [
+
+			],
+			"enchantMP": 0,
+			"enchantLevel": 0
+		},
+		{
+			"id": 10,
+			"itemId": 2010006,
+			"shopId": 4,
+			"periodType": 1,
+			"period": 0,
+			"color": 4,
+			"expireTime": 0,
+			"durability": 2400,
+			"effects": [
+
+			],
+			"enchantMP": 0,
+			"enchantLevel": 0
+		},
+		{
+			"id": 11,
+			"itemId": 2010007,
+			"shopId": 4,
+			"periodType": 1,
+			"period": 0,
+			"color": 3,
+			"expireTime": 0,
+			"durability": 2400,
+			"effects": [
+
+			],
+			"enchantMP": 0,
+			"enchantLevel": 0
+		},
+		{
+			"id": 2003120,
+			"itemId": 1001244,
+			"shopId": 4,
+			"periodType": 1,
+			"period": 0,
+			"color": 3,
+			"expireTime": 0,
+			"durability": 2400,
+			"effects": [
+				{
+					"effectId": 1100313003
+				},
+				{
+					"effectId": 1100315003
+				},
+				{
+					"effectId": 1100317003
+				}
+			],
+			"enchantMP": 0,
+			"enchantLevel": 0
+		},
+		{
+			"id": 100,
+			"itemId": 1021021,
+			"shopId": 4,
+			"periodType": 1,
+			"period": 0,
+			"color": 0,
+			"expireTime": 0,
+			"durability": 2400,
+			"effects": [
+
+			],
+			"enchantMP": 0,
+			"enchantLevel": 0
+		},
+		{
+			"id": 101,
+			"itemId": 1031021,
+			"shopId": 4,
+			"periodType": 1,
+			"period": 0,
+			"color": 0,
+			"expireTime": 0,
+			"durability": 2400,
+			"effects": [
+
+			],
+			"enchantMP": 0,
+			"enchantLevel": 0
+		},
+		{
+			"id": 102,
+			"itemId": 1051021,
+			"shopId": 4,
+			"periodType": 1,
+			"period": 0,
+			"color": 0,
+			"expireTime": 0,
+			"durability": 2400,
+			"effects": [
+
+			],
+			"enchantMP": 0,
+			"enchantLevel": 0
+		},
+		{
+			"id": 103,
+			"itemId": 1000003,
+			"shopId": 4,
+			"periodType": 1,
+			"period": 0,
+			"color": 0,
+			"expireTime": 0,
+			"durability": 2400,
+			"effects": [
+
+			],
+			"enchantMP": 0,
+			"enchantLevel": 0
+		},
+		{
+			"id": 104,
+			"itemId": 1010007,
+			"shopId": 4,
+			"periodType": 1,
+			"period": 0,
+			"color": 0,
+			"expireTime": 0,
+			"durability": 2400,
+			"effects": [
+
+			],
+			"enchantMP": 0,
+			"enchantLevel": 0
+		}
+	],
+	"gunModeWeapons": [
+		{
+			"name": "Handgun",
+			"itemId": 2010007
+		},
+		{
+			"name": "Dual Magnum",
+			"itemId": 2010028
+		},
+		{
+			"name": "Burst Shotgun",
+			"itemId": 2010008
+		},
+		{
+			"name": "Revolver",
+			"itemId": 2010002
+		},
+		{
+			"name": "Homing Rifle",
+			"itemId": 2010015
+		},
+		{
+			"name": "Spark Rifle",
+			"itemId": 2010018
+		},
+		{
+			"name": "Gauss Rifle",
+			"itemId": 2020002
+		},
+		{
+			"name": "Semi Rifle",
+			"itemId": 2010004
+		},
+		{
+			"name": "Assault Rifle",
+			"itemId": 2010024
+		},
+		{
+			"name": "Smash Rifle",
+			"itemId": 2010006
+		},
+		{
+			"name": "Submachine Gun",
+			"itemId": 2010001
+		},
+		{
+			"name": "Light Machinegun",
+			"itemId": 2020007
+		},
+		{
+			"name": "Heavy Machinegun",
+			"itemId": 2020001
+		},
+		{
+			"name": "Sharpshooter",
+			"itemId": 2030008
+		},
+		{
+			"name": "Rail Gun",
+			"itemId": 2030001
+		},
+		{
+			"name": "Cannonade",
+			"itemId": 2030002
+		},
+		{
+			"name": "Earth Bomber",
+			"itemId": 2050002
+		},
+		{
+			"name": "Rocket Launcher",
+			"itemId": 2020010
+		},
+		{
+			"name": "Mine Gun",
+			"itemId": 2050001
+		},
+		{
+			"name": "Air Gun",
+			"itemId": 2010016
+		}
+	]
+}

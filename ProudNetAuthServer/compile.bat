@@ -1,0 +1,1 @@
+enclose --loglevel info --config "./compileConfig.js" -o ./AuthServer.exe ./AuthServer.js & cmd /k

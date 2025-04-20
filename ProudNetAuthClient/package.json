@@ -1,0 +1,12 @@
+{
+	"name": "AuthClient",
+	"description": "Auth Client for S4 League",
+	"author": "Buffele",
+	"private": true,
+	"dependencies" : {
+
+	},
+	"scripts": {
+		"start": "cls & node Init.js"
+	}
+}

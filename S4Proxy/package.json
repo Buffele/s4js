@@ -1,0 +1,10 @@
+{
+	"name": "S4Proxy",
+	"description": "S4 League Proxy",
+	"author": "Buffele",
+	"private": true,
+	"dependencies": {
+		"body-parser": "1.17.2",
+		"express": "4.15.4"
+	}
+}

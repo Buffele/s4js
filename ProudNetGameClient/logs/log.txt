@@ -1,0 +1,46 @@
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 51.195.42.159:121
+[ProudNetClient] ERROR - ProudNet Packet [NotifyProtocolVersionMismatch]
+[Client] INFO - Connection closed
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 51.195.42.159:121
+[Client] WARNING - Packet received: [SServerResultAck][1009]
+[Client] INFO - Connection closed
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 51.195.42.159:121
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 51.195.42.159:121
+[Client] WARNING - Packet received: [SServerResultAck][1009]
+[Client] INFO - Connection closed
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 51.195.42.159:121
+[Client] WARNING - Packet received: [SServerResultAck][1009]
+[Client] INFO - Connection closed
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 51.195.42.159:121
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 51.195.42.159:121
+[Client] WARNING - Packet received: [SServerResultAck][1009]
+[Client] INFO - Connection closed
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 51.195.42.159:121
+[Client] INFO - Connection closed
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 51.195.42.159:121
+[Client] INFO - Connection closed
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 51.195.42.159:121
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 51.195.42.159:121
+[Client] WARNING - Packet received: [SServerResultAck][1009]
+[Client] INFO - Connection closed
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 51.195.42.159:121
+[Client] WARNING - Packet received: [SServerResultAck][1009]
+[Client] INFO - Connection closed
+[Client] INFO - Starting ProudNetClient...
+[Client] INFO - Connected to 51.195.42.159:121
+[Client] WARNING - Packet received: [SServerResultAck][1009]
+[Client] DEBUG - 
+00 00 00 00 
+[Client] INFO - Connection closed

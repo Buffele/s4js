@@ -1,0 +1,1 @@
+enclose --loglevel info --config "./compileConfig.js" -o ./RelayServer.exe ./RelayServer.js & cmd /k

@@ -1,0 +1,1 @@
+enclose --loglevel info --config "./compileConfig.js" -o ./S4InventoryReader.exe ./S4InventoryReader.js & cmd /k

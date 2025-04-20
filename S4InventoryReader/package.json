@@ -1,0 +1,10 @@
+{
+	"name": "S4InventoryReader",
+	"private": true,
+	"dependencies" : {
+
+	},
+	"scripts": {
+		"start": "cls & node S4InventoryReader.js"
+	}
+}
