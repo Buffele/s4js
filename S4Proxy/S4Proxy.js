@@ -52,7 +52,7 @@ const startAuthProxy = () => {
 			const data = SLoginEUAck.deserialize(packet);
 			console.log(data);
 		} else if(opCode === AuthOPCode.SServerListAck) {
-			var packet = new Packet('e')
+			var packet = new Packet('e');
 
 			var servers = [];
 
@@ -91,11 +91,10 @@ const startAuthProxy = () => {
 	})
 
 	authProxy.on('serverPacketReceived', function(session, opCode, packet) {
-		log.debug('[AUTH] --> [' + AuthOPCode.getKeyByValue(opCode) + '][' + opCode + ']')
-		log.debug(Packet.dump(packet.data.toBuffer()))
+		log.debug('[AUTH] --> [' + AuthOPCode.getKeyByValue(opCode) + '][' + opCode + ']');
+		log.debug(Packet.dump(packet.data.toBuffer()));
 
-		if(opCode === AuthOPCode.CLoginEUReq) {
-			log.debug("Sending uwu req");
+		if (opCode === AuthOPCode.CLoginEUReq) {
 			var kr = new Packet('e');
 			kr.writeBuffer(CLoginKRReq.serialize(Config.account.name, Config.account.id));
 			authProxy.sendToClient(session, 5001, kr)
@@ -165,15 +164,15 @@ const startChatProxy = (server) => {
 		log.debug('[CHAT] --> [' + ChatOPCode.getKeyByValue(opCode) + '][' + opCode + ']');
 		log.debug(Packet.dump(packet.data.toBuffer()));
 
-		if(opCode === ChatOPCode.CLoginReq) {
-			var deserialized = CLoginReq.deserialize(packet)
-			console.log(deserialized)
+		if (opCode === ChatOPCode.CLoginReq) {
+			var deserialized = CLoginReq.deserialize(packet);
+			console.log(deserialized);
 
 			deserialized.name = Config.account.name;
 			deserialized.accountId = Config.account.id;
 
-			packet = new Packet('E')
-			packet.writeBuffer(CLoginReq.serialize(deserialized))
+			packet = new Packet('E');
+			packet.writeBuffer(CLoginReq.serialize(deserialized));
 		}
 
 		chatProxy.sendToClient(session, opCode, packet);
