@@ -1,5 +1,4 @@
 var iconv = require('iconv-lite')
-var int53 = require('int53')
 var SmartBuffer = require('smart-buffer')
 
 STRING_LENGTH_LIMIT = 1048576
@@ -123,20 +122,23 @@ Packet.prototype.readDoubleLE = function() {
 }
 
 Packet.prototype.readInt64LE = function() {
-	if(this.data._readOffset + 8 > this.data.length) {
-		return 0
-	}
-
-	return int53.readInt64LE(this.data)
+    if(this.data._readOffset + 8 > this.data.length) {
+        return 0n;
+    }
+    
+    const value = this.data.readBuffer(8);
+    return value.readBigInt64LE(0);
 }
 
 Packet.prototype.readUInt64LE = function() {
-	if(this.data._readOffset + 8 > this.data.length) {
-		return 0
-	}
-
-	return int53.readUInt64LE(this.data)
+    if(this.data._readOffset + 8 > this.data.length) {
+        return 0n;
+    }
+    
+    const value = this.data.readBuffer(8);
+    return value.readBigUInt64LE(0);
 }
+
 
 Packet.prototype.readIp = function() {
 	return this.readUInt8() + '.' + this.readUInt8() + '.' + this.readUInt8() + '.' + this.readUInt8()
@@ -233,16 +235,17 @@ Packet.prototype.writeDoubleLE = function(double) {
 }
 
 Packet.prototype.writeInt64LE = function(int) {
-	var fakeBuffer = new Buffer(8)
-	int53.writeInt64LE(int, fakeBuffer)
-	this.data.writeBuffer(fakeBuffer)
+    const buffer = Buffer.alloc(8);
+    buffer.writeBigInt64LE(BigInt(int));
+    this.data.writeBuffer(buffer);
 }
 
 Packet.prototype.writeUInt64LE = function(uint) {
-	var fakeBuffer = new Buffer(8)
-	int53.writeUInt64LE(uint, fakeBuffer)
-	this.data.writeBuffer(fakeBuffer)
+    const buffer = Buffer.alloc(8);
+    buffer.writeBigUInt64LE(BigInt(uint));
+    this.data.writeBuffer(buffer);
 }
+
 
 Packet.prototype.writeIp = function(ip) {
 	var ip = ip.split('.')
