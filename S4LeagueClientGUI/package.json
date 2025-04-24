@@ -5,7 +5,10 @@
 	"private": true,
 	"version": "0.0.1",
 	"main": "S4LeagueClientGUI.js",
+	"scripts": {
+		"start": "electron ."
+	},
 	"devDependencies": {
-		"electron-prebuilt": "1.4.13"
+		"electron": "35.2.1"
 	}
 }

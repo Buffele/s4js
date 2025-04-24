@@ -71,7 +71,11 @@ app.on('ready', function() {
 	mainWindow = new BrowserWindow({
 		width: 800,
 		height: 600,
-		icon: 'main.png'
+		icon: 'main.png',
+		webPreferences: {
+			nodeIntegration: true,
+			contextIsolation: false,
+		},
 	})
 
 	mainWindow.loadURL('file://' + __dirname + '/index.html')
