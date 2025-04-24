@@ -869,7 +869,7 @@ ScoreService.prototype = {
 		this.data.broadcastToRoom(session.channelId, session.roomId, GameOPCode.SScoreGoalAck, SScoreGoalAck.serialize(player.playerId, packet.unk, packet.peerId))
 		log.debug('Packet Sent [SScoreGoalAck]')
 
-		this.data.broadcastToRoom(session.channelId, session.roomId, GameOPCode.SGameEventMessageAck, SGameEventMessageAck.serialize(new Buffer([0x10, 0xe0, 0x2e, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x01, 0x01, 0x00])))
+		this.data.broadcastToRoom(session.channelId, session.roomId, GameOPCode.SGameEventMessageAck, SGameEventMessageAck.serialize(Buffer.from([0x10, 0xe0, 0x2e, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x01, 0x01, 0x00])))
 		log.debug('Packet Sent [SGameEventMessageAck]')
 
 		setTimeout(function() {
@@ -878,7 +878,7 @@ ScoreService.prototype = {
 				return
 			}
 
-			this.data.broadcastToRoom(session.channelId, session.roomId, GameOPCode.SGameEventMessageAck, SGameEventMessageAck.serialize(new Buffer([0x0f, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x01, 0x01, 0x00])))
+			this.data.broadcastToRoom(session.channelId, session.roomId, GameOPCode.SGameEventMessageAck, SGameEventMessageAck.serialize(Buffer.from([0x0f, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x01, 0x01, 0x00])))
 			log.debug('Packet Sent [SGameEventMessageAck]')
 		}.bind(this), 12000)
 	},

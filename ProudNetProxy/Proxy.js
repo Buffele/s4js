@@ -6,8 +6,8 @@ var Packet = require('../Core/Network/Packet')
 
 var log = new Logger('Proxy', true)
 
-var bufferedClientData = new Buffer(0)
-var bufferedServerData = new Buffer(0)
+var bufferedClientData = Buffer().alloc(0)
+var bufferedServerData = Buffer().alloc(0)
 
 function parseClientData() {
 	while(true) {

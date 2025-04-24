@@ -247,7 +247,7 @@ process.on('TokenDone', function() {
 })
 
 function createAccount(gameClient, name) {
-	var unk = new Buffer([0x01, 0x00, 0x00, 0x00, 0x45, 0x42, 0x0f, 0x00, 0x00, 0x00, 0x00, 0x00, 0x68, 0x90, 0x0f, 0x00, 0x78, 0xb7, 0x0f, 0x00, 0x88, 0xde, 0x0f, 0x00, 0x96, 0x05, 0x10, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00])
+	var unk = Buffer.from([0x01, 0x00, 0x00, 0x00, 0x45, 0x42, 0x0f, 0x00, 0x00, 0x00, 0x00, 0x00, 0x68, 0x90, 0x0f, 0x00, 0x78, 0xb7, 0x0f, 0x00, 0x88, 0xde, 0x0f, 0x00, 0x96, 0x05, 0x10, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00])
 	gameClient.send(GameOPCode.CCharacterFirstCreateReq, CCharacterFirstCreateReq.serialize(name, unk))
 	log.debug('Packet Sent [CCharacterFirstCreateReq]')
 }
@@ -298,7 +298,7 @@ process.on('AuthDone', function() {
 				//gameClient.send(GameOPCode.CClubSearchReq2, packet.data.toBuffer())
 				//log.info('Packet Sent [CClubSearchReq2]')
 
-				//gameClient.send(GameOPCode.CAdminShowWindowReq, new Buffer(0))
+				//gameClient.send(GameOPCode.CAdminShowWindowReq, Buffer.alloc(0))
 				//log.info('Packet Sent [CAdminShowWindowReq]')
 
 				//for (i = 0; i < 100000; i++) {
@@ -345,7 +345,7 @@ process.on('AuthDone', function() {
 					log.debug('Packet Sent [CClubCreateReq]')
 					*/
 
-					//gameClient.send(GameOPCode.CClubRankListReq, CClubRankListReq.serialize(new Buffer([0x00, 0x00, 0x00, 0x00, 0x96, 0x00, 0x00, 0x00])))
+					//gameClient.send(GameOPCode.CClubRankListReq, CClubRankListReq.serialize(Buffer.from([0x00, 0x00, 0x00, 0x00, 0x96, 0x00, 0x00, 0x00])))
 					//log.debug('Packet Sent [CClubRankListReq]')
 
 					//gameClient.send(GameOPCode.CClubOtherClubinfoReq, CClubOtherClubinfoReq.serialize('HITnRUN'))
@@ -512,13 +512,13 @@ process.on('AuthDone', function() {
 
 			if(packet.opcode === 1) {
 				log.debug('[BattlEye] Answer Welcome')
-				gameClient.send(GameOPCode.CBattleyeC2SDataReq, CBattleyeC2SDataReq.serialize(2, new Buffer([0x00, 0x04])))
+				gameClient.send(GameOPCode.CBattleyeC2SDataReq, CBattleyeC2SDataReq.serialize(2, Buffer.from([0x00, 0x04])))
 				log.debug('Packet Sent [CBattleyeC2SDataReq]')
 			} else if(packet.opcode === 2) {
 				log.debug('[BattlEye] 2')
-				if(new Buffer([0x03, 0x00]).equals(packet.data)) {
+				if(Buffer.from([0x03, 0x00]).equals(packet.data)) {
 					console.log('YAY')
-					gameClient.send(GameOPCode.CBattleyeC2SDataReq, CBattleyeC2SDataReq.serialize(5, new Buffer([0x03, 0x00, 0x00, 0x00, 0x00])))
+					gameClient.send(GameOPCode.CBattleyeC2SDataReq, CBattleyeC2SDataReq.serialize(5, Buffer.from([0x03, 0x00, 0x00, 0x00, 0x00])))
 					log.debug('Packet Sent [CBattleyeC2SDataReq]')
 				}
 				
@@ -528,11 +528,11 @@ process.on('AuthDone', function() {
 				log.debug('Packet Sent [CBattleyeC2SDataReq]')
 			} else if(packet.opcode === 14) {
 				log.debug('[BattlEye] 14')
-				gameClient.send(GameOPCode.CBattleyeC2SDataReq, CBattleyeC2SDataReq.serialize(2, new Buffer([0x01, 0x07]))) // 01 01 would be DC here
+				gameClient.send(GameOPCode.CBattleyeC2SDataReq, CBattleyeC2SDataReq.serialize(2, Buffer.from([0x01, 0x07]))) // 01 01 would be DC here
 				log.debug('Packet Sent [CBattleyeC2SDataReq]')
 			} else if(packet.opcode === 35) {
 				log.debug('[BattlEye] 35')
-				gameClient.send(GameOPCode.CBattleyeC2SDataReq, CBattleyeC2SDataReq.serialize(2, new Buffer([0x02, 0x00])))
+				gameClient.send(GameOPCode.CBattleyeC2SDataReq, CBattleyeC2SDataReq.serialize(2, Buffer.from([0x02, 0x00])))
 				log.debug('Packet Sent [CBattleyeC2SDataReq]')
 			} else {
 				log.warning('Unknown BattlEye OpCode received: ' + packet.opcode)

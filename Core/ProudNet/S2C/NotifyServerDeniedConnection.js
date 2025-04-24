@@ -11,7 +11,7 @@ module.exports = {
 	},
 	serialize: function() {
 		var packet = new Packet(OPCode.NotifyServerDeniedConnection)
-		packet.writeProudBuffer(new Buffer(0)) // comment
+		packet.writeProudBuffer(Buffer.alloc(0)) // comment
 		return packet.finalize()
 	}
 }

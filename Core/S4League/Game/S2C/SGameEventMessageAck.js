@@ -18,7 +18,7 @@ module.exports = {
 		packet.writeUInt32LE(unk1)
 		packet.writeUInt16LE(unk2)
 		packet.writeUInt8(0x01)
-		packet.writeProudBuffer(new Buffer(str))
+		packet.writeProudBuffer(Buffer.from(str))
 		*/
 		return packet.data.toBuffer()
 	}

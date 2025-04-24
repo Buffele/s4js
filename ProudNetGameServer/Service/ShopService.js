@@ -75,19 +75,19 @@ ShopService.prototype = {
 		// TODO
 
 		// NewShopPrice
-		this.server.send(session, GameOPCode.SNewShopUpdateInfoAck, SNewShopUpdateInfoAck.serialize(ShopResourceType.NewShopPrice, new Buffer(0), 0, 0, '1'))
+		this.server.send(session, GameOPCode.SNewShopUpdateInfoAck, SNewShopUpdateInfoAck.serialize(ShopResourceType.NewShopPrice, Buffer.alloc(0), 0, 0, '1'))
 		log.debug('Packet Sent [SNewShopUpdateInfoAck]')
 
 		// NewShopEffect
-		this.server.send(session, GameOPCode.SNewShopUpdateInfoAck, SNewShopUpdateInfoAck.serialize(ShopResourceType.NewShopEffect, new Buffer(0), 0, 0, '1'))
+		this.server.send(session, GameOPCode.SNewShopUpdateInfoAck, SNewShopUpdateInfoAck.serialize(ShopResourceType.NewShopEffect, Buffer.alloc(0), 0, 0, '1'))
 		log.debug('Packet Sent [SNewShopUpdateInfoAck]')
 
 		// NewShopItem
-		this.server.send(session, GameOPCode.SNewShopUpdateInfoAck, SNewShopUpdateInfoAck.serialize(ShopResourceType.NewShopItem, new Buffer(0), 0, 0, '1'))
+		this.server.send(session, GameOPCode.SNewShopUpdateInfoAck, SNewShopUpdateInfoAck.serialize(ShopResourceType.NewShopItem, Buffer.alloc(0), 0, 0, '1'))
 		log.debug('Packet Sent [SNewShopUpdateInfoAck]')
 
 		// NewShopUniqueItem
-		this.server.send(session, GameOPCode.SNewShopUpdateInfoAck, SNewShopUpdateInfoAck.serialize(ShopResourceType.NewShopUniqueItem, new Buffer(0), 0, 0, '1'))
+		this.server.send(session, GameOPCode.SNewShopUpdateInfoAck, SNewShopUpdateInfoAck.serialize(ShopResourceType.NewShopUniqueItem, Buffer.alloc(0), 0, 0, '1'))
 		log.debug('Packet Sent [SNewShopUpdateInfoAck]')
 	},
 	handleCShoppingBasketActionReq: function(session, packet) {

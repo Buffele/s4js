@@ -273,8 +273,8 @@ RoomService.prototype = {
 			unk: packet.unk1,
 			random: packet.random,
 			settings: packet.settings,
-			unk2: new Buffer([0x00, 0x00, 0x00, 0x00, 0x00]),
-			unk3: new Buffer([0x00]),
+			unk2: Buffer.from([0x00, 0x00, 0x00, 0x00, 0x00]),
+			unk3: Buffer.from([0x00]),
 			// general stuff
 			startTime: 0,
 			itemDropCounter: 0,

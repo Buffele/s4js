@@ -124,7 +124,7 @@ module.exports = {
 			packet.writeUInt16LE(maxAmmo)
 		} else if (type == 2) {
 			//packet.writeUInt64LE(buffUid)
-			packet.writeBuffer(new Buffer([
+			packet.writeBuffer(Buffer.from([
 				0x00, 0x00, 0x00, 0x0f, // Buff effect
 				0x40, 0x06, // CurrAmmo (1600 - SP?)
 				0x64, 0x00 // Max Ammo (100)

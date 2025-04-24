@@ -23,7 +23,7 @@ module.exports = {
 	calculateHashKeySync: function(file) {
 		var fd = fs.openSync(file, 'r')
 		var hash = crypto.createHash('md5')
-		var buffer = new Buffer(BUFFER_SIZE)
+		var buffer = Buffer.alloc(BUFFER_SIZE)
 
 		try {
 			var bytesRead
