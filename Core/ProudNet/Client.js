@@ -571,7 +571,7 @@ function processPacket(self, packet, size, type) {
 	} else if(opCode === OPCode.NotifyCSSessionKeySuccess) {
 		//log.debug('ProudNet Packet [NotifyCSSessionKeySuccess]')
 		var packet = NotifyCSSessionKeySuccess.deserialize(packet)
-		self.client.write(NotifyServerConnectionRequestData.serialize(new Buffer(0), self.protocolVersion, Common.InternalVersion))
+		self.client.write(NotifyServerConnectionRequestData.serialize(Buffer.alloc(0), self.protocolVersion, Common.InternalVersion))
 	} else if(opCode === OPCode.NotifyProtocolVersionMismatch) {
 		log.error('ProudNet Packet [NotifyProtocolVersionMismatch]')
 		var packet = NotifyProtocolVersionMismatch.deserialize(packet)
@@ -888,7 +888,7 @@ var ProudNetClient = function(options) {
 		process.exit()
 	}
 
-	this.bufferedData = new Buffer(0)
+	this.bufferedData = Buffer.alloc(0);
 	this.client = new net.Socket()
 	this.enableRelaying = options.enableRelaying || false
 	this.enableC2S2CUDP = options.enableC2S2CUDP || false
@@ -896,7 +896,7 @@ var ProudNetClient = function(options) {
 	this.groupId = null
 	this.recvRefCounter = 0
 	this.sendRefCounter = 0
-	this.protocolVersion = new Buffer(options.protocolVersion)
+	this.protocolVersion = Buffer.from(options.protocolVersion)
 	this.p2pProxy = options.p2pProxy || false
 	this.p2pSessionKey
 	this.sessionKey
@@ -1115,7 +1115,7 @@ ProudNetClient.prototype.end = function() {
 
 	this.state = WorkerState.Disconnecting
 
-	var comment = new Buffer(0)
+	var comment = Buffer.alloc(0)
 	this.client.write(Rmi.serialize(OPCode.ShutdownTcp, ShutdownTcp.serialize(comment)))
 	//log.debug('Packet Sent [ShutdownTcp]')
 

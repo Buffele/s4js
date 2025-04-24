@@ -38,7 +38,7 @@ var ProudNetProxy = function(options) {
 	this.destinationIp = options.destinationIp
 	this.destinationPort = options.destinationPort
 	this.enableRelaying = options.enableRelaying || false
-	this.protocolVersion = new Buffer(options.protocolVersion)
+	this.protocolVersion = Buffer.from(options.protocolVersion)
 	this.p2pProxy = options.p2pProxy || false
 
 	events.EventEmitter.call(this)

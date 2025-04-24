@@ -427,7 +427,7 @@ function processPacket(packet, size, session, self) {
 				session.write(Rmi.serialize(OPCode.S2CCreateUdpSocketAck, S2CCreateUdpSocketAck.serialize(1, self.ip, session.udpPort)))
 				log.debug('Packet Sent [S2CCreateUdpSocketAck]')
 
-				session.holepunchMagicNumber = uuid.v4(null, new Buffer(16))
+				session.holepunchMagicNumber = uuid.v4(null, Buffer.alloc(16))
 
 				session.write(RequestStartServerHolepunch.serialize(session.holepunchMagicNumber))
 				log.debug('Packet Sent [RequestStartServerHolepunch]')
@@ -510,7 +510,7 @@ function processPacket(packet, size, session, self) {
 			session.write(Rmi.serialize(OPCode.S2CCreateUdpSocketAck, S2CCreateUdpSocketAck.serialize(1, self.ip, session.udpPort)))
 			log.debug('Packet Sent [S2CCreateUdpSocketAck]')
 
-			session.holepunchMagicNumber = uuid.v4(null, new Buffer(16))
+			session.holepunchMagicNumber = uuid.v4(null, Buffer.alloc(16))
 
 			session.write(RequestStartServerHolepunch.serialize(session.holepunchMagicNumber))
 			log.debug('Packet Sent [RequestStartServerHolepunch]')
@@ -558,14 +558,14 @@ function processPacket(packet, size, session, self) {
 			self.addSession(session)
 			self.hostId++
 			if(self.enableRelaying) {
-				session.connectionMagicNumber = uuid.v4(null, new Buffer(16))
+				session.connectionMagicNumber = uuid.v4(null, Buffer.alloc(16))
 				// Generate needed keys...
 				if(self.enableP2PEncryptedMessaging) {
-					session.p2pAESSessionKey = new Buffer([0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69])//crypto.randomBytes(16)
-					session.p2pRC4SessionKey = new Buffer(0) // TODO: Do we need a real key?
+					session.p2pAESSessionKey = Buffer.from([0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69, 0x69])//crypto.randomBytes(16)
+					session.p2pRC4SessionKey = Buffer.alloc(0) // TODO: Do we need a real key?
 				}
 			}
-			session.write(NotifyServerConnectSuccess.serialize(session.hostId, self.serverInstanceGuid, new Buffer(0), session.remoteAddress, session.remotePort))
+			session.write(NotifyServerConnectSuccess.serialize(session.hostId, self.serverInstanceGuid, Buffer.alloc(0), session.remoteAddress, session.remotePort))
 		} else {
 			session.write(NotifyProtocolVersionMismatch.serialize())
 		}
@@ -956,7 +956,7 @@ var ProudNetServer = function(options) {
 	this.enableC2S2CUDP = options.enableC2S2CUDP || false
 	this.enableC2CUDP = options.enableC2CUDP || false
 	this.hostId = 3
-	this.protocolVersion = new Buffer(options.protocolVersion)
+	this.protocolVersion = Buffer.from(options.protocolVersion)
 	this.p2pProxy = options.p2pProxy || false
 
 	// settings
@@ -981,7 +981,7 @@ var ProudNetServer = function(options) {
 	this.rsa = new RSA({ b: options.rsaBits })
 	this.publicKey = this.rsa.exportKey('pkcs1-public-der')
 
-	this.serverInstanceGuid = uuid.v4(null, new Buffer(16))
+	this.serverInstanceGuid = uuid.v4(null, Buffer.alloc(16))
 
 	this.groups = []
 	this.sessions = []
@@ -1001,7 +1001,7 @@ var ProudNetServer = function(options) {
 			session.destroy()
 		}
 
-		session.bufferedData = new Buffer(0)
+		session.bufferedData = Buffer.alloc(0)
 		session.recvRefCounter = 0
 		session.sendRefCounter = 0
 		session.udpEnabled = false
@@ -1209,14 +1209,14 @@ ProudNetServer.prototype.joinP2PGroup = function(groupId, session) {
 
 	session.groupId = groupId
 
-	var customField = new Buffer(0)
+	var customField = Buffer.alloc(0)
 
 	// FAKE!
 	if(this.enableP2PEncryptedMessaging) {
-		session.write(Rmi.serialize(OPCode.P2PGroupMemberJoin, P2PGroupMemberJoin.serialize(groupId, 2, customField, 157754, new Buffer(0), new Buffer(0), 2281507973, new Buffer(0), true, 0)))
+		session.write(Rmi.serialize(OPCode.P2PGroupMemberJoin, P2PGroupMemberJoin.serialize(groupId, 2, customField, 157754, Buffer.alloc(0), Buffer.alloc(0), 2281507973, Buffer.alloc(0), true, 0)))
 		log.debug('Packet Sent [P2PGroupMemberJoin] FAKE')
 	} else {
-		session.write(Rmi.serialize(OPCode.P2PGroupMemberJoinUnencrypted, P2PGroupMemberJoinUnencrypted.serialize(groupId, 2, customField, 157754, 2281507973, new Buffer(0), true, 0)))
+		session.write(Rmi.serialize(OPCode.P2PGroupMemberJoinUnencrypted, P2PGroupMemberJoinUnencrypted.serialize(groupId, 2, customField, 157754, 2281507973, Buffer.alloc(0), true, 0)))
 		log.debug('Packet Sent [P2PGroupMemberJoinUnencrypted] FAKE')
 	}
 
