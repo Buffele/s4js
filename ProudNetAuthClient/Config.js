@@ -1,6 +1,6 @@
 module.exports = {
 	auth: {
-		ip: '43.152.115.81', // Valofe
+		ip: '43.175.230.37', // Valofe
 		port: 28002
 	}
 }

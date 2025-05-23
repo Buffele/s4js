@@ -2,7 +2,7 @@ module.exports = {
 	servers: [
 		{
 			name: 'Valofe',
-			ip: '43.152.115.81',
+			ip: '43.175.230.37',
 			port: 28002
 		},
 	]

@@ -4,7 +4,7 @@ module.exports = {
 		port: 28013
 	},
 	target: {
-		ip: '43.152.115.81',
+		ip: '43.175.230.37',
 		port: 7948
 	}
 }
